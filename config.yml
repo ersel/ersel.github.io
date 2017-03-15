@@ -1,0 +1,19 @@
+site:
+    title: Ersel's Blog
+    tagline: Tech, Business, Books and everything else...
+posts:
+    -
+        title: My super insightful post
+        filename: super-insightful-post.html
+        date: 2017-03-12
+        template: post.html
+        content: post.md
+        category: tech
+    -
+        title: My super insightful post 2
+        filename: super-insightful-post2.html
+        date: 2017-03-12
+        template: post.html
+        content: post.md
+        category: business
+

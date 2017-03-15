@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title>Ersel Aker's Homepage</title>
+		<link rel="stylesheet" href="formats/acm-sig/css/pub.css">
+		<link rel="stylesheet" href="formats/fonts/cmun-serif.css">
+		<link rel="stylesheet" href="formats/theme/theme.css">
+		<script src="blog/excerpts.js"></script>
+	</head>
+	<body>
+		<header class="counter-skip">
+			<h1 class="title">Ersel Aker's Home on the Internet</h1>
+			<h2 class="subtitle">Ramblings on Software, Technology, Start-ups and everything else...</h2>
+			<div class="socials">
+				<div class="social"><a href="https://www.linkedin.com/in/erselaker" target="_blank"><img src="./formats/theme/images/linkedin.png"></a></div>
+				<div class="social"><a href="https://github.com/ersel" target="_blank"><img src="./formats/theme/images/github.png"></a></div>
+				<div class="social"><a href="https://twitter.com/erselaker" target="_blank"><img src="./formats/theme/images/twitter.png"></a></div>
+				<div class="social"><a href="https://stackoverflow.com/users/1124076/ersel-aker" target="_blank"><img src="./formats/theme/images/stack-overflow.png"></a></div>
+				<div class="social"><a href="mailto:hello@erselaker.com"><img src="./formats/theme/images/mail.png"></a></div>
+			</div>
+		</header>
+		<article>
+			<p style="text-align:center" id="categories"><b><em>Categories:</em> </b><code><a href="javascript:renderCategory('all')">All</a></code> </p>
+			<div id="headlines"></div>
+		</article>
+		<script src="https://code.jquery.com/jquery-2.1.3.min.js"></script>
+		<script>
+// find unique categories
+var uniqueCategories = [];
+for(var i = 0; i < d.length; i++){
+	if(uniqueCategories.indexOf(d[i].categories) < 0){
+		uniqueCategories.push(d[i].categories);
+		$('#categories').append("<code id='tabs'><a href=\"javascript:renderCategory('"+ d[i].categories +"')\">" + d[i].categories + "</a></code> ");
+	}
+}
+renderCategory('all');
+function renderCategory(cat){
+		$('#headlines').empty();
+		for(var i = 0; i < d.length; i++){
+			if(d[i].categories === cat || cat === 'all'){
+			$('#headlines').append("<h1><a href='./blog/"+ d[i].url +"'>"+d[i].title +"</h1>").addClass("counter-skip");
+			$('#headlines').append("<p><em>"+ d[i].prettyDate  + ', ' + d[i].duration + ", Filed Under: <a href='javascript:renderCategory(\""+ d[i].categories + "\")'>" + d[i].categories + "</a></em><br><a href='./blog/"+ d[i].url +"'>"+ d[i].excerpt +"</a></p>").addClass("counter-skip");
+			}
+		}
+}
+		</script>
+		<!-- https://www.youtube.com/watch?v=GlqqGKZ3Uac -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-93763743-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+	</body>
+</html>

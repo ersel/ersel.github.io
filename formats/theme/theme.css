@@ -1,0 +1,394 @@
+@import url(http://fonts.googleapis.com/css?family=Source+Serif+Pro:400,700);
+@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700);
+@import url(http://fonts.googleapis.com/css?family=Source+Code+Pro:600);
+
+@media screen {
+
+	html {
+		font-size: 20px;
+	}
+
+	body {
+		-webkit-column-count: 1;
+		-moz-column-count: 1;
+		column-count: 1;
+		font-family: 'Computer Modern Serif';
+		color: rgba(0,0,0,0.8);
+		letter-spacing: -0.02em;
+		text-rendering: optimizeLegibility;
+		-webkit-font-smoothing: antialiased;
+		-moz-osx-font-smoothing: grayscale;
+		-moz-font-feature-settings: "liga" on;
+		line-height: 1.5;
+		text-align: justify;
+	}
+
+	header {
+		box-sizing: border-box;
+		max-width: 700px;
+		margin: 3em auto 0em;
+	}
+	article {
+		box-sizing: border-box;
+		max-width: 700px;
+		margin: 3em auto 6em;
+	}
+
+	h1, h2, h3, h4, h5, h6,
+	.title, .authors {
+		font-family: 'Computer Modern Serif';
+	}
+
+	p {
+
+		line-height: 1.5;
+	}
+
+	a {
+		color: rgba(0,0,0,0.8);
+		text-decoration: none;
+	}
+	a:hover {
+	color: #cb4b16; }
+
+	a.latex {
+		display: inline-block;
+		text-decoration: none;
+		height: 21px;
+		border-bottom: 1px solid rgba(0,0,0,0.8);
+	}
+
+	code {
+		font-family: 'Source Code Pro', monospace;
+		font-weight: 600;
+	}
+
+	table {
+		margin: 2em auto 3em;
+	}
+
+	th, td {
+		border-width: 1px;
+	}
+
+	header h2 {
+		margin: 0 0 2em;
+	}
+
+	.title {
+		font-size: 1.7em;
+	}
+
+	.author {
+		font-size: 14px;
+	}
+
+	.author :first-child,
+	.author :last-child {
+		font-size: 20px;
+	}
+
+	code a,
+	.author a {
+		text-decoration: underline;
+	}
+
+	.equation {
+		margin: 2rem 0 3rem;
+	}
+
+	.footnotes {
+		margin-top: 3em;
+		padding-top: 1em;
+		border-top: 1px solid #000;
+	}
+
+	footnote {
+		display: block;
+		position: relative;
+		margin: 0 0 1em;
+		padding-left: 1.5em;
+		font-size: 15px;
+	}
+
+	footnote:before {
+		content: attr(data-counter);
+		position: absolute;
+		left: 0;
+	}
+
+	cite,
+	.footnote-ref {
+		position: relative;
+		cursor: pointer;
+		margin-left: 2px;
+	}
+
+	.popup {
+		z-index: 100;
+		background-color: #fff;
+		position: absolute;
+		left: 0;
+		top: 100%;
+		width: 300px;
+		padding: 0.5em 1em;
+		font-size: 15px;
+		box-shadow: 1px 1px 5px rgba(0,0,0,0.4);
+	}
+
+	figure img,
+	figure svg {
+		cursor: pointer;
+	}
+
+	.lightbox {
+		box-sizing: border-box;
+		position: fixed;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100%;
+		padding: 2em;
+		background-color: rgba(0,0,0,0.9);
+		cursor: pointer;
+	}
+
+	.lightbox img,
+	.lightbox svg {
+		z-index: 200;
+		width: 100% !important;
+		height: 100% !important;
+	}
+
+	@media (max-width: 720px) {
+		html {
+			font-size: 15px;
+		}
+
+		header,
+		article {
+			margin: 0 auto;
+			width: 100%;
+			padding: 2em;
+		}
+
+		figure img,
+		figure svg {
+			max-width: 100%;
+		}
+
+		.authors {
+			-webkit-column-count: 1;
+			-moz-column-count: 1;
+			column-count: 1;
+		}
+
+		.author {
+			-webkit-column-break-after: auto;
+			margin-bottom: 2em;
+		}
+
+		.equation {
+			width: 100%;
+			overflow-x: scroll;
+		}
+
+		.popup {
+			position: absolute;
+			width: 150px;
+			left: -75px;
+		}
+
+		.popup img,
+		.popup svg {
+			margin: 0 !important;
+		}
+	}
+}
+
+
+th {
+	font-weight: normal;
+}
+
+th, td {
+	padding: 0;
+}
+
+code a {
+	color: inherit;
+	text-decoration: none;
+}
+
+.tex,
+.latex {
+	text-transform: uppercase;
+}
+
+.tex > span,
+.latex > span {
+	line-height: 0;
+	text-transform: uppercase;
+}
+
+.latex > :first-child {
+	margin-left: -0.36em;
+	margin-right: -0.15em;
+	vertical-align: 0.3em;
+	font-size: 70%;
+}
+
+.tex > :last-child,
+.latex > :last-child {
+	margin-left: -0.1667em;
+	margin-right: -0.125em;
+	vertical-align: -0.5ex;
+}
+
+#table-comments {
+	width: auto;
+	float: column-top;
+	column-span: all;
+}
+
+#table-comments th,
+#table-comments td {
+	padding-left: 2pt;
+	padding-right: 2pt;
+}
+
+#table-comments th:nth-child(3),
+#table-comments td:nth-child(3) {
+	text-align: left;
+}
+
+
+blockquote {
+	border: solid 1px #ccccd0;
+	border-radius: 2px;
+	box-shadow: 0 0 4px #F2F2F4 inset;
+	background-color: #f8f8fa;
+	font-style: italic;
+	padding: 0.5em 1em;
+	color: #073642;
+	margin: 1.5em 0;
+}
+blockquote ul {
+margin-left: 0; }
+blockquote a {
+font-style: normal; }
+blockquote a:hover {
+color: #cb4b16; }
+blockquote i, blockquote em {
+	font-weight: normal;
+	font-style: normal;
+color: #002b36; }
+blockquote strong, blockquote b {
+	font-weight: bold;
+color: #002b36; }
+blockquote > ul, blockquote > ol {
+padding-left: 1.5em; }
+p pre code, ul li pre code, ol li pre code {
+	background: none;
+	border: none;
+padding: 0; }
+p code, ul li code, ol li code {
+	background: #f0f0f2;
+	border: solid 1px #ccccd0;
+	padding: 2px;
+}
+img {
+	max-width: 80%;
+	border: 1px solid #ccccd0;
+	background-color: #FAFAFC;
+	padding: 0.5em;
+	box-shadow: 0 0 5px #CCC inset;
+border-radius: 3px; }
+
+p > a > img {
+	display: inline-block;
+	border: none;
+	padding: 0;
+	margin: 0;
+box-shadow: none; }
+
+a:hover img {
+background-color: #dc3a05; }
+a:after {
+	content: "†";
+	vertical-align: super;
+	line-height: 0;
+	font-size: 0.66em;
+color: #073642; }
+
+.menu {
+	box-sizing: border-box;
+	max-width: 700px;
+	line-height: 2em;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 0;
+	position: relative;
+	clear: both;
+	width: 100%;
+	opacity: 0.40;
+	border-bottom: dashed 1px #93a1a1;
+}
+
+.menu:hover {
+	opacity: 1;
+}
+.bottom-menu {
+	box-sizing: border-box;
+	max-width: 700px;
+	line-height: 2em;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 0;
+	position: relative;
+	text-align: center;
+	clear: both;
+	width: 100%;
+	opacity: 0.40;
+	border-bottom: dashed 1px #93a1a1;
+}
+
+.bottom-menu:hover {
+	opacity: 1;
+}
+
+.disqus-comment-block {
+	box-sizing: border-box;
+	max-width: 700px;
+	margin: 3em auto 6em;
+}
+
+.share-buttons {
+	box-sizing: border-box;
+	max-width: 700px;
+	margin: 1em auto 1em;
+	text-align: center;
+}
+.share-buttons li {
+	display: inline;
+}
+.share-buttons a {
+	text-decoration: none;
+}
+
+.share-buttons a::after {
+	content: "";
+	vertical-align: super;
+	line-height: 0;
+	font-size: 0;
+	color: #fff;
+}
+
+.share-buttons img {
+	max-width: 80%;
+	border: 0;
+	background-color: #fff;
+	padding: 0.5em;
+	box-shadow: 0 0 0 0 #CCC inset;
+	border-radius: 0px;
+}

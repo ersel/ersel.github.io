@@ -1,0 +1,27 @@
+{
+  "name": "Ersel Aker's Blog",
+  "version": "1.0.0",
+  "description": "My  personal blog",
+  "main": "compile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ersel/ersel.github.io.git"
+  },
+  "author": "Ersel Aker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ersel/ersel.github.io/issues"
+  },
+  "homepage": "https://github.com/ersel/ersel.github.io#readme",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "handlebars": "^4.0.6",
+    "js-yaml": "^3.8.2",
+    "marked": "^0.3.6",
+    "moment": "^2.17.1",
+    "reading-time": "^1.1.0"
+  }
+}
