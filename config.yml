@@ -9,3 +9,10 @@ posts:
         template: post.html
         content: ai-essay-p1.md
         category: essays
+    -
+        title: "Artificial Intelligence: Race between humans and the machines - part 2"
+        filename: artificial-intelligence-essay-part2.html
+        date: 2017-03-25
+        template: post.html
+        content: ai-essay-p2.md
+        category: essays

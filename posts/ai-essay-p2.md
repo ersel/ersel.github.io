@@ -1,9 +1,3 @@
-# The race between humans and technology: can we outcompete technology and turn it into our advantage once again?
-
-> This is the second one of three essays in the fields of automation, robotics and artificial intelligence. Second essay focuses on the impact of technological innovation on the job market and economy. [Click here](http://erselaker.com/blog/artificial-intelligence-essay-part1.html) to read the first essay about the development and outlook of artificial intelligence field.
-
-
-
 # Transition into Industry 4.0
  
 Whilst the implications of a mismanaged hyper-intelligence are concerning, we are currently facing more pressing technology related issues, such as its effect on the global economy and the job market. A huge transformation is happening around us, which could perhaps be perceived as *the industrial revolution of our times*. The question on many people’s minds is; will robots steal our jobs? The bitter truth is; they have already started doing so.
@@ -50,15 +44,17 @@ In order to rank which jobs are less likely to be automated, Frey and Osborne hi
 
 These are the current bottlenecks to the automation of jobs involving tasks with such characteristics.
  
-As a result, Frey and Osborne argued that workers in transportation and logistics along with office and administrative support staff are in the high risk category. Workers in the production and construction industries also fall into this category. Sales jobs which seemingly requiring a high degree of social intelligence also fall into the high-risk bracket. For example cashiers, counter and rental clerks, and telemarketers do not necessarily require high levels of social intelligence, so further advancements in AI might replace their jobs as well. Furthermore, paralegals and legal assistants which can already be substituted with specialized programs are in the high risk category whereas lawyers are in the low risk category themselves.
+As a result, Frey and Osborne argued that workers in transportation and logistics industries along with office and administrative support staff are in the high risk category. Workers in production and construction industries also fall into this category. Sales jobs which seemingly requires a high degree of social intelligence also fall into the high-risk bracket. For example cashiers, counter and rental clerks, and telemarketers do not necessarily require high levels of social intelligence, so further advancements in AI might replace their jobs as well. Furthermore, paralegals and legal assistants are in the high risk category whereas lawyers are in the low risk category.
  
 Occupations involving installation, maintenance and repairing physical devices are in the medium risk category due to the fact that manual handling in various different environments will be hard to automate in near future.
  
 The fields of computing, engineering and science are in the low risk category as they require creative intelligence and also familiarity with different bodies of knowledge. Business, management and finance professionals are also in the low risk category due to highly generalist and social nature of their professions.
  
-Frey and Osborne’s paper illustrates a bleak picture for majority of the workforce, claiming that 47% of jobs are on the line in the next two decades. However, robots and automation replacing human labour doesn’t simply boil down to the level of technological advancements. David Autor, an economist at MIT, states the following argument in his 2013 paper; the mere fact that a job can be automated does not mean that it will be; relative costs also matter. When Nissan produces cars in Japan, he notes, it relies heavily on robots. At plants in India, by contrast, the firm relies more heavily on cheap local labour.
+Frey and Osborne’s paper illustrates a bleak picture for majority of the workforce, claiming that 47% of jobs are on the line in the next two decades. However, **robots and automation replacing human labour doesn’t simply boil down to the level of technological advancements.** David Autor, an economist at MIT, states the following argument in his 2013 paper:
+
+> The mere fact that a job can be automated does not mean that it will be; relative costs also matter. When Nissan produces cars in Japan, it relies heavily on robots. At plants in India, by contrast, the firm relies more heavily on cheap local labour.
  
-Apart from the economical factors, support of public institutions and society are crucial in adapting new technologies. To better help us understand how society copes with major shifts in technology’s application, we can study the development of previous industrial revolution and examine how society managed to steer this drastic change to benefit people from all walks of life.
+Apart from the economical factors, *support of public institutions and society are crucial in adapting new technologies.* To better help us understand how society copes with major shifts in technology’s application, we can study the development of previous industrial revolution and examine how society managed to steer this drastic change to benefit people from all walks of life.
  
  
 # A gaze into the past, an insight into the future
@@ -82,7 +78,7 @@ David Grusky, Professor of Sociology at Stanford University, argues that the sol
 Can universities reform?
 Go pass beyond the certification effect?
 
-
+> This is the second of three essays on automation, robotics and artificial intelligence. Second essay focuses on the impact of technological innovation on the job market and economy. [Click here](http://erselaker.com/blog/artificial-intelligence-essay-part1.html) to read the first essay about the development and outlook of artificial intelligence field.
 
 
 
