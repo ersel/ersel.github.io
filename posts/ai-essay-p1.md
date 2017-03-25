@@ -4,10 +4,14 @@ Every other day we see another striking headline highlighting the fast pace of d
 
 One recent prominent case was **Google’s AlphaGo software**, which **won a game of Go against the world’s best player, Lee Sedol**. Go is a hugely complex strategy board game originating from China, possessing more possible moves than the total number of atoms in the visible universe. Sedol’s loss was not the first and most probably won’t be the last time, humankind is defeated in a game where it was thought computers would never be able to match our abilities. **In 1996, then world chess grandmaster Garry Kasparov was beaten by the IBM Deep Blue computer**. 15 years later, **in 2011, IBM was again making the headlines with their Watson computer winning a game of jeopardy.**
 
+![AlphaGo vs Lee Sedol](http://erselaker.com/assets/images/alpha-go.jpg "AlphaGo vs Lee Sedol")
+
 Watson owes its impressive cognitive capabilities to the *developments in the fields of natural-language processing, machine vision, computational statistics and more recently machine learning* – where huge data sets are analysed to uncover patterns or detect anomalies.
 
 
 When it is not beating mere mortals in a game of jeopardy, Watson gives advice to physicians; helping with diagnosis, evaluation of reports and prescription of treatments. Watson taps into a huge collection of medical journals, textbooks and patient medical records to come up with the best advice. IBM has also announced that Watson will be servicing customer-support call centres soon, which has already received the support of several banks.
+
+![Baxter robot](http://erselaker.com/assets/images/baxter.jpg "Baxter robot")
 
 Disruptive innovation reaches beyond our hospitals and call-centers, meet **Baxter, a $22,000 general purpose robot which can help factory workers by doing repetitive tasks at the assembly line.** It requires no programming to start working, instead it learns from fellow human workers and memorizes work-flows. It can easily be upgraded with standard attachments to its arms, further expanding its bag of tricks. If Baxter is confused, its LCD screen displays a puzzled face to ask help from nearby workers. *Rethink Robotics, the startup behind Baxter, claim robots won’t be replacing workers but will be a great companion to people at factories and warehouses.* Amazon acquired robotics company Kiva Systems back in 2012 and at the end of 2015 it was using 30,000 Kiva robots across 13 warehouses. This investment has cut Amazon’s operating costs by a staggering 20%.
 
@@ -31,6 +35,8 @@ In 2014, Stephen Hawking stated that *“the development of full artificial inte
 
 In his 1993 essay, Vernor Vigne, a computer scientist and science fiction writer, described the concept of “machine intelligence matching and eventually surpassing human intelligence” as “singularity”. He also stated that singularity would happen sometime in between 2005 and 2030. Building on top of Vigne’s essay, Ray Kurzweil in his 2006 book, titled *“The Singularity Is Near: When Humans Transcend Biology”* claimed that **it will take until 2045 to reach singularity.** These bold predictions should be taken with a pinch of salt in the light of the current state of technology and also the historical evidence.
 
+![Turing Test](http://erselaker.com/assets/images/turing-test.png "Turing Test")
+
 On the road to singularity, we *still haven’t reached a significant milestone* – **an AI capable of passing the Turing Test.** The Turing test was designed to check if an AI agent can match up to human intelligence. It works like this, you first put a human and a computer behind closed doors in separate rooms. Judges then try to determine which one is the computer and which one is the human by exchanging written messages with each room. If they fail to be able to identify the answers from a given room as being provided by a machine, so as to say, there is no distinction between which room is the human or the computer, then the AI passes the test. Every year a Turing test competition is held where the winner can claim the Loebner Prize gold medal. To this date, no artificial intelligence has managed to pass the test, although we might be very close due to recent developments in natural language processing (NLP) and machine learning. The Turing test is a key prerequisite for reaching singularity but it is far from the end goal.
 
 Apart from the technical complications blurring the path to singularity, historical evidence also shows that AI is a field where over-promising and under-delivering has been the norm.
@@ -52,4 +58,4 @@ Last year Elon Musk donated **$10m to the Future of Life Institute where he also
 # Closing thoughts
 It is crucial that AI agents are designed to be human-friendly, putting the best interests of humankind and the planet above everything else. Development in the field should be build on two pillars, integrity and transparency. Corporations should be transparent about the scope of their AI projects, measuring the impact of such developments and taking steps to adequately manage the systemic risks involved. Academics, subject experts and policy makers should contribute to the development of the field with integrity, acting as the moral compass which guides the interests of corporations. Only then can we pave the way to ethical AI which benefits humanity as a whole.
 
-**Note: This piece was published at the Italian magazine [SmartWeek](http://www.smartweek.it/artificial-intelligence-key-to-the-future-or-pandoras-box/) whilst I was a contributing author as a Bocconi student.**
+**Note**: *This piece was published at the Italian magazine [SmartWeek](http://www.smartweek.it/artificial-intelligence-key-to-the-future-or-pandoras-box/) whilst I was studying at Bocconi University.*
