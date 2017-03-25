@@ -71,14 +71,17 @@ Contrary to the backlash against technological developments, economic variables 
 
 Some economists argue that the advancement of technology we see today is not bringing the same rewards as the previous industrial revolution, Erik Brynjolfsson and Andrew Mcafee, academics at MIT Sloan School of Management, believe that technology is destroying jobs faster than it is creating them, contributing to the stagnation of median income and further dividing the inequality gap.
 
-![Great Decoupling](http://erselaker.com/assets/images/great_decoupling "Great Decoupling")
+![Great Decoupling](http://erselaker.com/assets/images/great_decoupling.png "Great Decoupling")
  
 Brynjolfsson and Mcafee base their claims on productivity and employment levels after World War II, two economic indicators which follow parallel trends until the beginning of 2000. As productivity increases, economic activity flourishes creating more jobs. **At the beginning of the 2000s, employment levels start to stagnate despite the continued increase in productivity, leading up to what Brynjolfsson and Mcafee call “great decoupling”.** Technology is advancing so fast that workers, businesses and institutions can’t keep up. In order to stay relevant in the future, people and institutions need to acquire new skills faster than the pace of technology, it is a race between humans and technology!
 
-Argument 2: Increasing Inequality Picketty, Hollowing out middle class Autor - Benefits of advances are not shared equally
-San Francisco as an example - homeless camp “the forest”, near Adobe HQ
+Another interesting economical trend influenced by technology is **job polarization.** A 2007 research conducted by David Autor of MIT found out that the share of employment in middle-skilled jobs has declined rapidly both in Europe and US since 1980s. Autor attributes this trend to automation of many routine and manual jobs by software or machines. This trend is hollowing out the middle class, resulting in polarization of incomes as well. Percentage of growth in wages of low and high skilled workers has been bigger than middle skilled workers.
 
- Not all hope is lost, industrial revolutions always begin with greater inequality, followed by social and political reform. If we have managed to steer the change in the right direction before, why should not we able to do it once again? Success of previous industrial revolutions can be attributed to the rise of trade unions, adoption of universal post-secondary education, fiscal reforms and introduction of social safety nets.
+![](http://erselaker.com/assets/images/great_decoupling.png "")
+
+Not all hope is lost, industrial revolutions always begin with greater inequality, followed by social and political reform. If we have managed to steer the change in the right direction before, why should not we able to do it once again? Success of previous industrial revolutions can be attributed to the rise of trade unions, adoption of universal post-secondary education, fiscal reforms and introduction of social safety nets.
+ 
+In the final part of this series, I'll be discussing the potential reforms regarding education and social safety (global basic income) which can help share the benefits of advancement fairly among everyone.
 
 > This is the second of three essays on automation, robotics and artificial intelligence. Second essay focuses on the impact of technological innovation on the job market and economy. [Click here](http://erselaker.com/blog/artificial-intelligence-essay-part1.html) to read the first essay about the development and outlook of artificial intelligence field.
 
