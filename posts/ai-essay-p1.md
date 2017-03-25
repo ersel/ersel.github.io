@@ -1,5 +1,7 @@
 Every other day we see another striking headline highlighting the fast pace of development in the fields of _artificial intelligence (AI), robotics and software_. Robots acting as teaching assistants, artificial intelligence writing books and film scripts are just a few examples of such stunning news stories.
 
+![I Robot, 2004](http://erselaker.com/assets/images/ai.jpg "A scene from the film I Robot, 2004")
+
 One recent prominent case was **Google’s AlphaGo software**, which **won a game of Go against the world’s best player, Lee Sedol**. Go is a hugely complex strategy board game originating from China, possessing more possible moves than the total number of atoms in the visible universe. Sedol’s loss was not the first and most probably won’t be the last time, humankind is defeated in a game where it was thought computers would never be able to match our abilities. **In 1996, then world chess grandmaster Garry Kasparov was beaten by the IBM Deep Blue computer**. 15 years later, **in 2011, IBM was again making the headlines with their Watson computer winning a game of jeopardy.**
 
 Watson owes its impressive cognitive capabilities to the *developments in the fields of natural-language processing, machine vision, computational statistics and more recently machine learning* – where huge data sets are analysed to uncover patterns or detect anomalies.
