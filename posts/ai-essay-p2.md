@@ -1,6 +1,6 @@
 # The race between humans and technology: can we outcompete technology and turn it into our advantage once again?
 
-> This is the second of three essays about the outlook of economy,  job market with respect to the developments in the fields of automation, robotics and artificial intelligence. Second essay focuses on the impact of technological innovation on the job market and economy. [Click here](http://erselaker.com/blog/artificial-intelligence-essay-part1.html) to read the first essay about the development and outlook of artificial intelligence field.
+> This is the second one of three essays in the fields of automation, robotics and artificial intelligence. Second essay focuses on the impact of technological innovation on the job market and economy. [Click here](http://erselaker.com/blog/artificial-intelligence-essay-part1.html) to read the first essay about the development and outlook of artificial intelligence field.
 
 
 
@@ -11,6 +11,8 @@ Whilst the implications of a mismanaged hyper-intelligence are concerning, we ar
 Due to advancements in artificial intelligence, automation and robotics many professions are left with the prospect of being rendered obsolete. The diversity of applications are quite varied, sophisticated algorithms and automation software are replacing accountants, administrative personnel, office workers and even law professionals. Self-driving vehicles have the potential to disrupt the future of the transport and logistics industries, eliminating the need for human drivers. Manufacturing will be one of the hardest hit sectors, where general purpose robots with learning capabilities, such as `Baxter`, can replace human workers at factories once they learn how to do their daily jobs. Unlike humans however, software and robots don’t need to rest, eat or face psychological turmoil, making them the *perfect workers*.
  
 According to **Klaus Schwab, Founder and Executive Chairman of the World Economic Forum**; this is not where it ends, this is only the beginning. The computer and automation revolution we have been experiencing will be promptly followed by what he calls *“the 4th industrial revolution”.*
+
+![Industry 4.0](http://erselaker.com/assets/images/industry4.png "Industry 4.0")
  
 Industry 4.0 represents the possibility of combining cyber-physical systems, the so called `Internet of Things` (IoT) – physical sensors capturing and storing data in real-time, and the internet of systems – software systems managing various aspects of a business. A perfect harmony between digital, physical and biological actors in business established through interconnected technology. 
 
@@ -22,14 +24,29 @@ This gives you an idea of how Industry 4.0 can change the way we do business. As
  
 A 2013 empirical research study conducted by Carl Benedikt Frey and Michael Osborne, of the University of Oxford, claimed that around **47% of the US employment is in the high risk category of losing their jobs due to automation in the next two decades.**
  
-Frey and Osborne conducted their analysis by identifying variety of tasks involved with each profession and classifying them into a 2 by 2 matrix. 
- 
-Historically, professions involving routine and manual tasks were most likely candidates for automation which is evident from the decline of manufacturing jobs, on the contrary, non-routine and cognitive tasks were less susceptible to automation such as engineering jobs. However, machine learning algorithms nowadays can perform non-routine operations as long as a big dataset is available from which insights can be captured, we are no longer confined to rigid logic structures in software. So, automation of non-routine tasks is slowly becoming a reality as well.
- 
-In order to rank which jobs are less likely to be automated, Frey and Osborne highlighted the skills humans possess which are hard to replicate by automation or artificial intelligence. At the top of the list comes the ability to examine our surroundings and identify items of interest in a cluttered view. Significant advancements have been made in the field of machine vision enabling computers to effectively identify objects but they still lack the intuition and insight into how identified objects might be (ir)relevant to the task at hand.
-Furthermore, dexterity of the human body, especially our hands allows us to work in cramped situations, an evolutionary trait which solidified mankind’s grip on power. Apart from specialized medical robots which can replicate such levels of dexterity, an economically viable mass-market robot is yet to come.
+Frey and Osborne conducted their analysis by identifying variety of tasks involved with each profession and classifying them into a 2 by 2 matrix.
 
- Our creative capabilities to come up with unusual and creative ideas to solve problems. Last but not the least, our social intelligence, ability to perceive emotions, persuade and negotiate with others. 
+![Turing Test](http://erselaker.com/assets/images/task-type-matrix.png "Turing Test")
+ 
+Historically, professions involving routine and manual tasks were most likely candidates for automation which is evident from the decline of manufacturing jobs, on the contrary, non-routine and cognitive tasks were less susceptible to automation such as engineering jobs. However, current machine learning algorithms can perform non-routine operations as long as a big dataset is available from which insights can be captured, we are no longer confined to rigid logic structures in software. So, automation of non-routine tasks is slowly becoming a reality as well.
+ 
+In order to rank which jobs are less likely to be automated, Frey and Osborne highlighted the skills humans possess which are hard to replicate by automation or artificial intelligence. 
+
+1. *Ability to examine surroundings and identify items of interest in a cluttered view.* 
+
+	Significant advancements have been made in the field of machine vision enabling computers to effectively identify objects but they still lack the intuition and insight into how identified objects might be (ir)relevant to the task at hand.
+
+2. *Dexterity*
+
+	Dexterity of the human body, especially our hands allows us to work in cramped situations, an evolutionary trait which solidified mankind’s grip on power. Apart from specialized medical robots which can replicate such levels of dexterity, an economically viable mass-market robot is yet to come.
+
+3. *Creativity*
+
+	 Creative capabilities to come up with unusual and creative ideas to solve problems.
+
+4. *Social Intelligence*
+
+	Ability to perceive emotions, persuade and negotiate with others. 
 
 These are the current bottlenecks to the automation of jobs involving tasks with such characteristics.
  
