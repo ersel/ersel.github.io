@@ -1,5 +1,3 @@
-#Artificial Intelligence: Key to the future or Pandora's box
-
 Every other day we see another striking headline highlighting the fast pace of development in the fields of _artificial intelligence (AI), robotics and software_. Robots acting as teaching assistants, artificial intelligence writing books and film scripts are just a few examples of such stunning news stories.
 
 One recent prominent case was **Google’s AlphaGo software**, which **won a game of Go against the world’s best player, Lee Sedol**. Go is a hugely complex strategy board game originating from China, possessing more possible moves than the total number of atoms in the visible universe. Sedol’s loss was not the first and most probably won’t be the last time, humankind is defeated in a game where it was thought computers would never be able to match our abilities. **In 1996, then world chess grandmaster Garry Kasparov was beaten by the IBM Deep Blue computer**. 15 years later, **in 2011, IBM was again making the headlines with their Watson computer winning a game of jeopardy.**
@@ -12,7 +10,7 @@ Disruptive innovation reaches beyond our hospitals and call-centers, meet **Baxt
 
 **With the pace of innovation ramping up with significant haste, what will be the influence of AI and robotics on the future of the economy, job market and humankind as a whole?**
 
-##Demystifying the AI
+## Demystifying the AI
 
 The dystopian view of ultra-intelligent, evil AI overlords is not a phenomenon which solely belongs to sci-fi films or literature. Many academics and business executives have voiced their concerns about the issue. In the 1960s, a British mathematician, Irving John Good, who was one of the cryptologists working alongside Alan Turing at Bletchley Park during WWII put forward the following statement about the threat of ultra-intelligent machines:
 
@@ -26,7 +24,7 @@ Recently though, Good’s intelligence explosion argument has been brought out o
 
 In 2014, Stephen Hawking stated that *“the development of full artificial intelligence could spell the end of human race”.* A similar, and perhaps even more alarming statement was given by Tesla’s founder, Elon Musk, who said, *“with artificial intelligence humankind is summoning the demon”.* Bill Gates also backed Musk and others by stating future developments in the field of artificial intelligence might result in a strong enough intelligence which could very well be a source of concern for humankind.
 
-##Should we fear the uprising of ultra-intelligent machines anytime soon?
+## Should we fear the uprising of ultra-intelligent machines anytime soon?
 
 In his 1993 essay, Vernor Vigne, a computer scientist and science fiction writer, described the concept of “machine intelligence matching and eventually surpassing human intelligence” as “singularity”. He also stated that singularity would happen sometime in between 2005 and 2030. Building on top of Vigne’s essay, Ray Kurzweil in his 2006 book, titled *“The Singularity Is Near: When Humans Transcend Biology”* claimed that **it will take until 2045 to reach singularity.** These bold predictions should be taken with a pinch of salt in the light of the current state of technology and also the historical evidence.
 
@@ -36,7 +34,7 @@ Apart from the technical complications blurring the path to singularity, histori
 
 Ambitious claims were made by the field as early as the 1960s. American mathematician and computer scientist, John McCarthy, who also coined the term “artificial intelligence”, promised financial backers from the Pentagon, a machine which could match human intelligence would only take a decade to design and build. Quite clearly McCarthy’s grandiose vision never came to fruition, and his unfulfilled promise is not the only case of bold claims which would never quite come to pass. **A story published by The New York Times back in 1958 reported that the Navy was planning to build a $100,000 “thinking machine” within one year, based on psychologist Frank Rosenblatt’s research on neural networks.** This was yet another example of an ambitious artificial intelligence project which never saw the light of the day.
 
-##Road to Singularity
+## Road to Singularity
 
 The road leading to singularity seems unclear and there are also some formidable hurdles along the way.
 
@@ -48,5 +46,7 @@ Nevertheless, even though singularity seems like a far away dream for now, the p
 
 Last year Elon Musk donated **$10m to the Future of Life Institute where he also serves as a member of the scientific advisory board.** Donation will be used to fund research aimed at keeping AI beneficial for humanity. In 2016, Google’s DeepMind division teamed up with researchers from the University of Oxford to find ways to repeatedly and safely switch off AI agents. Their team published **a peer reviewed paper introducing a safety framework for AI agents. Framework allows human operators to interrupt AI agents, while AI agents don’t learn how to prevent human induced interruptions, much like a big red button to halt the operation of AI.**
 
-##Closing remarks
+## Closing thoughts
 It is crucial that AI agents are designed to be human-friendly, putting the best interests of humankind and the planet above everything else. Development in the field should be build on two pillars, integrity and transparency. Corporations should be transparent about the scope of their AI projects, measuring the impact of such developments and taking steps to adequately manage the systemic risks involved. Academics, subject experts and policy makers should contribute to the development of the field with integrity, acting as the moral compass which guides the interests of corporations. Only then can we pave the way to ethical AI which benefits humanity as a whole.
+
+Note: This piece was published at the Italian magazine SmartWeek whilst I was a contributing author as a Bocconi student. 
