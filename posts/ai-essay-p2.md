@@ -77,11 +77,14 @@ Brynjolfsson and Mcafee base their claims on productivity and employment levels 
 
 Another interesting economical trend influenced by technology is **job polarization.** A 2007 research conducted by David Autor of MIT found out that the share of employment in middle-skilled jobs has declined rapidly both in Europe and US since 1980s. Autor attributes this trend to automation of many routine and manual jobs by software or machines. This trend is hollowing out the middle class, resulting in polarization of incomes as well. Percentage of growth in wages of low and high skilled workers has been bigger than middle skilled workers.
 
-![](http://erselaker.com/assets/images/great_decoupling.png "")
+![Job polarization](http://erselaker.com/assets/images/job_polarization.png "Job polarization")
+![Wage polarization](http://erselaker.com/assets/images/wage_polarization.png "Wage polarization")
 
-Not all hope is lost, industrial revolutions always begin with greater inequality, followed by social and political reform. If we have managed to steer the change in the right direction before, why should not we able to do it once again? Success of previous industrial revolutions can be attributed to the rise of trade unions, adoption of universal post-secondary education, fiscal reforms and introduction of social safety nets.
+Perhaps, the most compelling and a living, breathing example of tectonic shifts outlined by economic indicators above is the de-facto capital of technology, San Francisco. Likes of Google, Apple and Facebook are operating *tech shuttles* for their employees amidst frequent protests by long time residents of the city. Influx of well paid, young tech workers have driven rent and property prices above the roof, pricing out many San Franciscans. In 2013, homeless has set up a camp known as "the jungle" in the city, just 10 minute drive away from Oracle's campus in San Jose. A real life juxtaposition of how technological advances are affecting the society in completely opposite ways.
+
+Not all hope is lost though, industrial revolutions always begin with greater inequality, followed by social and political reform. If we have managed to steer the change in the right direction before, why should not we able to do it once again? **Success of previous industrial revolutions can be attributed to the rise of trade unions, adoption of universal post-secondary education, fiscal reforms and introduction of social safety nets.**
  
-In the final part of this series, I'll be discussing the potential reforms regarding education and social safety (global basic income) which can help share the benefits of advancement fairly among everyone.
+In the final part of this series, I'll be discussing the potential education and social reforms.
 
 > This is the second of three essays on automation, robotics and artificial intelligence. Second essay focuses on the impact of technological innovation on the job market and economy. [Click here](http://erselaker.com/blog/artificial-intelligence-essay-part1.html) to read the first essay about the development and outlook of artificial intelligence field.
 
