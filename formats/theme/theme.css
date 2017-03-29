@@ -20,7 +20,7 @@
 		-moz-osx-font-smoothing: grayscale;
 		-moz-font-feature-settings: "liga" on;
 		line-height: 1.5;
-		text-align: justify;
+		text-align: left;
 	}
 
 	header {
