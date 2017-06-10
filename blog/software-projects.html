@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title>Software Projects</title>
+		<link rel="stylesheet" href="../formats/acm-sig/css/pub.css">
+		<link rel="stylesheet" href="../formats/fonts/cmun-serif.css">
+		<link rel="stylesheet" href="../formats/theme/theme.css">
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.10.0/styles/monokai-sublime.min.css">
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.10.0/highlight.min.js"></script>
+		<script
+  src="https://code.jquery.com/jquery-3.1.1.min.js"
+  integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
+  crossorigin="anonymous"></script>
+	</head>
+	<body>
+		<div class="menu"><a id="home" href="http://www.erselaker.com">Back To Homepage</a></div>
+		<header class="counter-skip">
+			<h1 class="title">Software Projects</h1>
+			<h2 class="subtitle">10th of June 2017, 5 min read</h2>
+		</header>
+		<article>
+			<h1 id="software-projects">Software Projects</h1>
+<p>I enjoy trying new technologies and as a kinaesthetic learner find it more natural to learn whilst working on a project. I have compiled a list of some software projects that I&#39;ve worked on.</p>
+<h2 id="spotify-terminal-client-for-mac">Spotify Terminal Client for Mac</h2>
+<p>Terminal is like 127.0.0.1 to me, hence I curate a list of helpful functions and aliases in my bash_profile. On a cold January night, I wondered why should I leave warm and comfortable home row of my keyboard to play music, so I wrote a little Node.js app to control Spotify from the convenience of a terminal window.</p>
+<p>With the client you can search for artists, songs, albums or playlists and start playing directly from the search results. You can also pause, stop, skip, repeat, shuffle and set volume and even display the lyrics of the currently playing song.</p>
+<p>It works by talking to Spotify Web API to fetch search results then controls local Spotify application through invoking various Apple Scripts. In order to get lyrics feature working, you&#39;ll need to grab an API token so the client can talk to the the Genius API.</p>
+<p>Click here for the code repo, or install the client directly if you have Node installed.</p>
+<p><code>npm install spotify-cli-mac -g</code></p>
+<p>Thinking npm is so passé? Well, be my guest and install with yarn whilst curling your moustache then.</p>
+<p><code>yarn global add spotify-cli-mac</code></p>
+<p>Once installed type <code>spotify -h</code> for a full list of features you can use.</p>
+<h2 id="mental-math">Mental Math</h2>
+<p>Mental Math is a Vuejs app to learn and practice various mental arithmetic tricks. You can try it out at mentalmath.fun, I intend to add more exercises from Vedic and Trachtenberg techniques in the future.</p>
+<p>If you are interested in contributing, please check this wikipedia page for a comprehensive list of techniques which can be added to the project. I would be happy to help on implementation if you open an issue on the repo, PRs are welcome.</p>
+<h2 id="readnow-readlater-chrome-extensions">ReadNow &amp; ReadLater Chrome Extensions</h2>
+<p>Do you end up with a myriad of open tabs on Chrome that you would like to read at some point? Like that interesting post on Medium which has been sitting there for days now waiting to be read.</p>
+<p>Well, breathe a sigh of relief because I&#39;ve developed a pair of Chrome extensions to fix this problem. You can install both ReadLater and ReadNow extensions from the Chrome Web Store. Once installed, you can click the ReadLater browser icon and the URL of current tab will be automatically saved to a bookmarks folder. When you are ready to read some of your bookmarks then simply click the ReadNow button and depending on your preferences first, last or a random ReadLater bookmark will be opened in a new tab and the URL will be removed from your ReadLater bookmarks folder.</p>
+<p>You can check the code for both extensions on GitHub.</p>
+<p>##Time Tracking Bot for Slack</p>
+<blockquote>
+<p>“What gets measured get managed.”- Peter Drucker</p>
+</blockquote>
+<p>During my time at an early-stage start-up, a key learning I took away was that the most valuable asset of a start-up is the time of its employees. While developing a new product, there will be many manual back-office tasks. Deciding on the right order to automate these to free up employee time is vital. This experience has inspired me to develop a time tracking bot on Slack to record manual tasks in a standardised way. As Peter Drucker says:</p>
+<p>I wrote a Serverless nodejs app using AWS Lambda, AWS API Gateway and Google Spreadsheet API. Time tracking records are timestamped with the name of the activity, along with the duration in number of seconds. Both the time tracking records and list of activities that can be recorded are stored in a Google Spreadsheet which can be shared with other people.</p>
+<p>People can simply type <code>\track &quot;onboarding call&quot; 15m</code> in any Slack chat window and the activity gets recorded in the Google Spreadsheet. After recording an activity, Slack bot compliments the hard work of the employee by choosing a random compliment.</p>
+<p>You can check the source code here.</p>
+<p>##Arduino Simple IO
+I&#39;ve written a small input/output library in C++ to use my Arduino Uno R3 with an LCD screen and a keypad. It works by initializing an InputLine at the specified column depending on the size of your LCD screen. Once you initialize an input line then you can add as many text labels and alphanumeric input fields as you like.</p>
+<p>A linked list data structure was used to store labels and input fields added to the line, which made it quite easy to implement cyclic cursor rotation between fields.</p>
+<p>You can see the source code here.</p>
+<p>##Yass G! - Yet another static site Generator
+This is none other than my blog, which is a simple Nodejs script that takes a few Markdown files and generates HTML pages like the one you are reading at the moment. Feel free to steal it.</p>
+
+		</article>
+		<div class="bottom-menu"><a id="home" href="#home">Jump To Top</a></div>
+<ul class="share-buttons">
+  <li><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ferselaker.com&t=" title="Share on Facebook" target="_blank" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(document.URL) + '&t=' + encodeURIComponent(document.URL)); return false;"><img alt="Share on Facebook" src="../assets/flat_web_icon_set/black/Facebook.png"></a></li>
+  <li><a href="https://twitter.com/intent/tweet?source=http%3A%2F%2Ferselaker.com&text=:%20http%3A%2F%2Ferselaker.com&via=erselaker" target="_blank" title="Tweet" onclick="window.open('https://twitter.com/intent/tweet?text=' + encodeURIComponent(document.title) + ':%20'  + encodeURIComponent(document.URL)); return false;"><img alt="Tweet" src="../assets/flat_web_icon_set/black/Twitter.png"></a></li>
+  <li><a href="https://plus.google.com/share?url=http%3A%2F%2Ferselaker.com" target="_blank" title="Share on Google+" onclick="window.open('https://plus.google.com/share?url=' + encodeURIComponent(document.URL)); return false;"><img alt="Share on Google+" src="../assets/flat_web_icon_set/black/Google+.png"></a></li>
+  <li><a href="https://getpocket.com/save?url=http%3A%2F%2Ferselaker.com&title=" target="_blank" title="Add to Pocket" onclick="window.open('https://getpocket.com/save?url=' + encodeURIComponent(document.URL) + '&title=' +  encodeURIComponent(document.title)); return false;"><img alt="Add to Pocket" src="../assets/flat_web_icon_set/black/Pocket.png"></a></li>
+  <li><a href="http://www.reddit.com/submit?url=http%3A%2F%2Ferselaker.com&title=" target="_blank" title="Submit to Reddit" onclick="window.open('http://www.reddit.com/submit?url=' + encodeURIComponent(document.URL) + '&title=' +  encodeURIComponent(document.title)); return false;"><img alt="Submit to Reddit" src="../assets/flat_web_icon_set/black/Reddit.png"></a></li>
+  <li><a href="http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Ferselaker.com&title=&summary=&source=http%3A%2F%2Ferselaker.com" target="_blank" title="Share on LinkedIn" onclick="window.open('http://www.linkedin.com/shareArticle?mini=true&url=' + encodeURIComponent(document.URL) + '&title=' +  encodeURIComponent(document.title)); return false;"><img alt="Share on LinkedIn" src="../assets/flat_web_icon_set/black/LinkedIn.png"></a></li>
+  <li><a href="mailto:?subject=&body=:%20http%3A%2F%2Ferselaker.com" target="_blank" title="Send email" onclick="window.open('mailto:?subject=' + encodeURIComponent(document.title) + '&body=' +  encodeURIComponent(document.URL)); return false;"><img alt="Send email" src="../assets/flat_web_icon_set/black/Email.png"></a></li>
+</ul>
+		<div id="disqus_thread" class="disqus-comment-block"></div>
+		<script>
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+ *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+		/*
+		   var disqus_config = function () {
+		   this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+		   this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+		   };
+		 */
+		(function() { // DON'T EDIT BELOW THIS LINE
+			var d = document, s = d.createElement('script');
+			s.src = 'https://erselblog.disqus.com/embed.js';
+			s.setAttribute('data-timestamp', +new Date());
+			(d.head || d.body).appendChild(s);
+		})();
+		</script>
+		<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+		<script>
+		$(document).ready(function() {
+			$('pre code').each(function(i, block) {
+				hljs.highlightBlock(block);
+			});
+			$('a:not(#home)').prop('target', '_blank');
+		});
+		</script>
+		<!-- https://www.youtube.com/watch?v=GlqqGKZ3Uac -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-93763743-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+	</body>
+</html>
