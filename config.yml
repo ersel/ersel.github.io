@@ -16,3 +16,10 @@ posts:
         template: post.html
         content: ai-essay-p2.md
         category: essays
+    -
+        title: "Software Projects"
+        filename: software-projects.html
+        date: 2017-06-10
+        template: post.html
+        content: projects.md
+        category: projects
