@@ -22,7 +22,11 @@ Once installed type `spotify -h` to see a full list of features available at you
 # Mental Math
 Mental Math is a web app to learn and practice various mental arithmetic tricks, built with [minimalist MVVM framework Vuejs](https://vuejs.org/) and [modern flexbox based CSS framework Bulma](http://bulma.io/).
 
-Go to [mentalmath.fun](http://www.mentalmath.fun/) to try it out. I would like to add more exercises from <a href="https://en.wikipedia.org/wiki/Vedic_Mathematics_(book)">Vedic</a> and [Trachtenberg](https://en.wikipedia.org/wiki/Trachtenberg_system) techniques in the future.
+![Mental Math Homepage](http://erselaker.com/assets/images/mental_math_homepage.png "Mental Math Homepage")
+
+Visit [mentalmath.fun](http://www.mentalmath.fun/) to try it out.
+
+I would like to add more exercises from <a href="https://en.wikipedia.org/wiki/Vedic_Mathematics_(book)">Vedic</a> and [Trachtenberg](https://en.wikipedia.org/wiki/Trachtenberg_system) techniques in the future.
 
 If you would like to contribute, please check this [Wikipedia page for a comprehensive list of techniques](https://en.wikipedia.org/wiki/Mental_calculation) which can be added to the project. I would be happy to help with implementation if you open an issue or submit a pull request on the [GitHub repository.](https://github.com/ersel/mental-math)
 
