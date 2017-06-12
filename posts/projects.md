@@ -31,11 +31,21 @@ I would like to add more exercises from <a href="https://en.wikipedia.org/wiki/V
 If you would like to contribute, please check this [Wikipedia page for a comprehensive list of techniques](https://en.wikipedia.org/wiki/Mental_calculation) which can be added to the project. I would be happy to help with implementation if you open an issue or submit a pull request on the [GitHub repository.](https://github.com/ersel/mental-math)
 
 # ReadNow & ReadLater Chrome Extensions
-Do you end up with a myriad of open tabs on Chrome that you would like to read at some point? Like that interesting post on Medium which has been sitting there for days now waiting to be read.
+Do you end up with a myriad of open tabs on Chrome that you would like to read at some point? Like that interesting post on Medium that you were meant to read for a week now.
 
-Well, breathe a sigh of relief because I've developed a pair of Chrome extensions to fix this problem. You can install both ReadLater and ReadNow extensions from the Chrome Web Store. Once installed, you can click the ReadLater browser icon and the URL of current tab will be automatically saved to a bookmarks folder. When you are ready to read some of your bookmarks then simply click the ReadNow button and depending on your preferences first, last or a random ReadLater bookmark will be opened in a new tab and the URL will be removed from your ReadLater bookmarks folder.
+Well, breathe a sigh of relief because I've developed a pair of Chrome extensions to fix this problem.
 
-You can check the code for both extensions on GitHub.
+You can install both [ReadLater](https://chrome.google.com/webstore/detail/readlater-bookmarks-in-a/fcabbkcefpkdinlmioihdghblpopckkn?hl=en) and [ReadNow](https://chrome.google.com/webstore/detail/readnow-open-bookmarks-fr/fckiipajjnhkmdhehhhhcgkmgdepdefn?hl=en) extensions from the [Chrome Web Store](https://chrome.google.com/webstore/search/erselaker?hl=en).
+
+Once installed, you can click the ReadLater button to save current tab for later reading. When you're free to read simply click the ReadNow button and saved bookmark will be opened in a new tab and the entry will be removed from ReadLater bookmarks. ReadNow button will also display the number of bookmarks you have queued for reading in the right bottom corner.
+
+![ReadLater and ReadNow Buttons](http://erselaker.com/assets/images/chrome_extension_buttons.png "ReadLater and ReadNow Buttons")
+
+On the settings page for ReadNow extension, you can set in which order you would like to read through your bookmarks; first added, last added or in random order.
+
+![ReadNow Options](http://erselaker.com/assets/images/readnow_options.png "ReadNow Options")
+
+Source code for [ReadNow](https://github.com/ersel/ReadNow) and [ReadLater](https://github.com/ersel/ReadLater) are both on GitHub.
 
 # Time Tracking Bot for Slack
 
