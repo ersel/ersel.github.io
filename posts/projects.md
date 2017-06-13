@@ -51,9 +51,13 @@ Source code for [ReadNow](https://github.com/ersel/ReadNow) and [ReadLater](http
 
 > “What gets measured get managed.”- Peter Drucker
 
-During my time at an early-stage start-up, a key learning I took away was that the most valuable asset of a start-up is the time of its employees. While developing a new product, there will be many manual back-office tasks. Deciding on the right order to automate these to free up employee time is vital. This experience has inspired me to develop a time tracking bot on Slack to record manual tasks in a standardised way. As Peter Drucker says:
+During my time at an early-stage start-up, a key learning I took away was that the most valuable asset of a start-up is the time of its employees. While developing a new product, there will be many manual back-office tasks. Deciding on the right order to automate these to free up employee time is vital. This experience has inspired me to develop a time tracking bot on Slack to record manual tasks in a standardised way.
 
 I wrote a Serverless nodejs app using AWS Lambda, AWS API Gateway and Google Spreadsheet API. Time tracking records are timestamped with the name of the activity, along with the duration in number of seconds. Both the time tracking records and list of activities that can be recorded are stored in a Google Spreadsheet which can be shared with other people.
+
+![Serverless Architecture](http://erselaker.com/assets/images/slack-time-tracker-architecture.png "Serverless Architecture")
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SW2PuoBAy5k" frameborder="0" allowfullscreen></iframe>
 
 People can simply type `\track "onboarding call" 15m` in any Slack chat window and the activity gets recorded in the Google Spreadsheet. After recording an activity, Slack bot compliments the hard work of the employee by choosing a random compliment.
 

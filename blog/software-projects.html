@@ -51,8 +51,11 @@ Using the client you can search for artists, songs, albums or playlists and star
 <blockquote>
 <p>“What gets measured get managed.”- Peter Drucker</p>
 </blockquote>
-<p>During my time at an early-stage start-up, a key learning I took away was that the most valuable asset of a start-up is the time of its employees. While developing a new product, there will be many manual back-office tasks. Deciding on the right order to automate these to free up employee time is vital. This experience has inspired me to develop a time tracking bot on Slack to record manual tasks in a standardised way. As Peter Drucker says:</p>
+<p>During my time at an early-stage start-up, a key learning I took away was that the most valuable asset of a start-up is the time of its employees. While developing a new product, there will be many manual back-office tasks. Deciding on the right order to automate these to free up employee time is vital. This experience has inspired me to develop a time tracking bot on Slack to record manual tasks in a standardised way.</p>
 <p>I wrote a Serverless nodejs app using AWS Lambda, AWS API Gateway and Google Spreadsheet API. Time tracking records are timestamped with the name of the activity, along with the duration in number of seconds. Both the time tracking records and list of activities that can be recorded are stored in a Google Spreadsheet which can be shared with other people.</p>
+<p><img src="http://erselaker.com/assets/images/slack-time-tracker-architecture.png" alt="Serverless Architecture" title="Serverless Architecture"></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SW2PuoBAy5k" frameborder="0" allowfullscreen></iframe>
+
 <p>People can simply type <code>\track &quot;onboarding call&quot; 15m</code> in any Slack chat window and the activity gets recorded in the Google Spreadsheet. After recording an activity, Slack bot compliments the hard work of the employee by choosing a random compliment.</p>
 <p>You can check the source code here.</p>
 <h1 id="arduino-simple-io">Arduino Simple IO</h1>
