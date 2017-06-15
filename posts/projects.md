@@ -45,17 +45,19 @@ On the settings page for ReadNow extension, you can set in which order you would
 
 ![ReadNow Options](http://erselaker.com/assets/images/readnow_options.png "ReadNow Options")
 
+Some of you might be thinking, but wait isn't this what Pocket does? The difference between Pocket and ReadLater/Now is, Pocket is more of a long term bookmark storage solution. ReadLater behaves like a temporary stack where the bookmarks are ephemeral, removed once read.
+
 Source code for [ReadNow](https://github.com/ersel/ReadNow) and [ReadLater](https://github.com/ersel/ReadLater) are both on GitHub.
 
 # Time Tracking Bot for Slack
 
 > “What gets measured get managed.”- Peter Drucker
 
-One of the most valuable assets of an early-stage start-up is the time of its employess. While developing a new product, there will be many manual back-office tasks. Deciding on the right order to automate these is crucial to create a scalable product. This experience has inspired me to develop a time tracking bot on Slack to record manual tasks in a standardised way. This project was also featured in the curated `awesome-serverless` [list](https://github.com/JustServerless/awesome-serverless).
+One of the most valuable assets of an early-stage start-up is the time of its employees. While developing a new product, there will be many manual back-office tasks. Deciding on the right order to automate these is crucial to create a scalable product. This experience has inspired me to develop a time tracking bot on Slack to record manual tasks in a standardised way. This project was also featured in the curated `awesome-serverless` [list](https://github.com/JustServerless/awesome-serverless).
 
 Using the time tracking bot, employees can track their time through Slack. You can watch the 1 min demo below to see  it in action.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SW2PuoBAy5k&rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SW2PuoBAy5k?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 A Google Sheet is used to store the time tracking information along with a list of business activities that can be used to record time against. Google Spreadsheet can be shared with your colleagues with varying permission levels. It provides company wide visibility, makes it easy for anyone download the data as CSV and analyse it for insights.
 
@@ -71,9 +73,9 @@ I've written a small input/output library in C++ to use my Arduino Uno R3 with a
 
 A linked list data structure was used to store labels and input fields added to the line, which made it quite easy to implement cyclic cursor rotation between fields.
 
-You can see the source code here.
+You can see the source [code here.](https://github.com/ersel/arduino-simple-io)
 
 # Yass G! - Yet another static site Generator
 
-This is none other than my blog, which is a simple Nodejs script that takes a few Markdown files and generates HTML pages like the one you are reading at the moment. Feel free to steal it.
+This is none other than my blog, which is a simple Nodejs script that takes a few Markdown files and generates HTML pages like the one you are reading right now. Feel free to [steal it.](https://github.com/ersel/ersel.github.io)
 
