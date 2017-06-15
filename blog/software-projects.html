@@ -46,14 +46,15 @@ Using the client you can search for artists, songs, albums or playlists and star
 <p><img src="http://erselaker.com/assets/images/chrome_extension_buttons.png" alt="ReadLater and ReadNow Buttons" title="ReadLater and ReadNow Buttons"></p>
 <p>On the settings page for ReadNow extension, you can set in which order you would like to read through your bookmarks; first added, last added or in random order.</p>
 <p><img src="http://erselaker.com/assets/images/readnow_options.png" alt="ReadNow Options" title="ReadNow Options"></p>
+<p>Some of you might be thinking, but wait isn&#39;t this what Pocket does? The difference between Pocket and ReadLater/Now is, Pocket is more of a long term bookmark storage solution. ReadLater behaves like a temporary stack where the bookmarks are ephemeral, removed once read.</p>
 <p>Source code for <a href="https://github.com/ersel/ReadNow">ReadNow</a> and <a href="https://github.com/ersel/ReadLater">ReadLater</a> are both on GitHub.</p>
 <h1 id="time-tracking-bot-for-slack">Time Tracking Bot for Slack</h1>
 <blockquote>
 <p>“What gets measured get managed.”- Peter Drucker</p>
 </blockquote>
-<p>One of the most valuable assets of an early-stage start-up is the time of its employess. While developing a new product, there will be many manual back-office tasks. Deciding on the right order to automate these is crucial to create a scalable product. This experience has inspired me to develop a time tracking bot on Slack to record manual tasks in a standardised way. This project was also featured in the curated <code>awesome-serverless</code> <a href="https://github.com/JustServerless/awesome-serverless">list</a>.</p>
+<p>One of the most valuable assets of an early-stage start-up is the time of its employees. While developing a new product, there will be many manual back-office tasks. Deciding on the right order to automate these is crucial to create a scalable product. This experience has inspired me to develop a time tracking bot on Slack to record manual tasks in a standardised way. This project was also featured in the curated <code>awesome-serverless</code> <a href="https://github.com/JustServerless/awesome-serverless">list</a>.</p>
 <p>Using the time tracking bot, employees can track their time through Slack. You can watch the 1 min demo below to see  it in action.</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SW2PuoBAy5k&rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SW2PuoBAy5k?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 <p>A Google Sheet is used to store the time tracking information along with a list of business activities that can be used to record time against. Google Spreadsheet can be shared with your colleagues with varying permission levels. It provides company wide visibility, makes it easy for anyone download the data as CSV and analyse it for insights.</p>
 <p>Time Tracking bot is a Node.js application which runs on AWS Lambda served behind an API Gateway. See the architecture diagram below.</p>
@@ -62,9 +63,9 @@ Using the client you can search for artists, songs, albums or playlists and star
 <h1 id="arduino-simple-io">Arduino Simple IO</h1>
 <p>I&#39;ve written a small input/output library in C++ to use my Arduino Uno R3 with an LCD screen and a keypad. It works by initializing an InputLine at the specified column depending on the size of your LCD screen. Once you initialize an input line then you can add as many text labels and alphanumeric input fields as you like.</p>
 <p>A linked list data structure was used to store labels and input fields added to the line, which made it quite easy to implement cyclic cursor rotation between fields.</p>
-<p>You can see the source code here.</p>
+<p>You can see the source <a href="https://github.com/ersel/arduino-simple-io">code here.</a></p>
 <h1 id="yass-g-yet-another-static-site-generator">Yass G! - Yet another static site Generator</h1>
-<p>This is none other than my blog, which is a simple Nodejs script that takes a few Markdown files and generates HTML pages like the one you are reading at the moment. Feel free to steal it.</p>
+<p>This is none other than my blog, which is a simple Nodejs script that takes a few Markdown files and generates HTML pages like the one you are reading right now. Feel free to <a href="https://github.com/ersel/ersel.github.io">steal it.</a></p>
 
 		</article>
 		<div class="bottom-menu"><a id="home" href="#home">Jump To Top</a></div>
