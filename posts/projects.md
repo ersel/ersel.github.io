@@ -51,17 +51,19 @@ Source code for [ReadNow](https://github.com/ersel/ReadNow) and [ReadLater](http
 
 > “What gets measured get managed.”- Peter Drucker
 
-During my time at an early-stage start-up, a key learning I took away was that the most valuable asset of a start-up is the time of its employees. While developing a new product, there will be many manual back-office tasks. Deciding on the right order to automate these to free up employee time is vital. This experience has inspired me to develop a time tracking bot on Slack to record manual tasks in a standardised way.
+One of the most valuable assets of an early-stage start-up is the time of its employess. While developing a new product, there will be many manual back-office tasks. Deciding on the right order to automate these is crucial to create a scalable product. This experience has inspired me to develop a time tracking bot on Slack to record manual tasks in a standardised way. This project was also featured in the curated `awesome-serverless` [list](https://github.com/JustServerless/awesome-serverless).
 
-I wrote a Serverless nodejs app using AWS Lambda, AWS API Gateway and Google Spreadsheet API. Time tracking records are timestamped with the name of the activity, along with the duration in number of seconds. Both the time tracking records and list of activities that can be recorded are stored in a Google Spreadsheet which can be shared with other people.
+Using the time tracking bot, employees can track their time through Slack. You can watch the 1 min demo below to see  it in action.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SW2PuoBAy5k&rel=0" frameborder="0" allowfullscreen></iframe>
+
+A Google Sheet is used to store the time tracking information along with a list of business activities that can be used to record time against. Google Spreadsheet can be shared with your colleagues with varying permission levels. It provides company wide visibility, makes it easy for anyone download the data as CSV and analyse it for insights.
+
+Time Tracking bot is a Node.js application which runs on AWS Lambda served behind an API Gateway. See the architecture diagram below.
 
 ![Serverless Architecture](http://erselaker.com/assets/images/slack-time-tracker-architecture.png "Serverless Architecture")
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SW2PuoBAy5k" frameborder="0" allowfullscreen></iframe>
-
-People can simply type `\track "onboarding call" 15m` in any Slack chat window and the activity gets recorded in the Google Spreadsheet. After recording an activity, Slack bot compliments the hard work of the employee by choosing a random compliment.
-
-You can check the source code here.
+Instructions on how to set it up can be found on the [GitHub repo.](https://github.com/ersel/time-tracker-slack-gsheets)
 
 # Arduino Simple IO
 

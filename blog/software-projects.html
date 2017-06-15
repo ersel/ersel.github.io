@@ -51,13 +51,14 @@ Using the client you can search for artists, songs, albums or playlists and star
 <blockquote>
 <p>“What gets measured get managed.”- Peter Drucker</p>
 </blockquote>
-<p>During my time at an early-stage start-up, a key learning I took away was that the most valuable asset of a start-up is the time of its employees. While developing a new product, there will be many manual back-office tasks. Deciding on the right order to automate these to free up employee time is vital. This experience has inspired me to develop a time tracking bot on Slack to record manual tasks in a standardised way.</p>
-<p>I wrote a Serverless nodejs app using AWS Lambda, AWS API Gateway and Google Spreadsheet API. Time tracking records are timestamped with the name of the activity, along with the duration in number of seconds. Both the time tracking records and list of activities that can be recorded are stored in a Google Spreadsheet which can be shared with other people.</p>
-<p><img src="http://erselaker.com/assets/images/slack-time-tracker-architecture.png" alt="Serverless Architecture" title="Serverless Architecture"></p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SW2PuoBAy5k" frameborder="0" allowfullscreen></iframe>
+<p>One of the most valuable assets of an early-stage start-up is the time of its employess. While developing a new product, there will be many manual back-office tasks. Deciding on the right order to automate these is crucial to create a scalable product. This experience has inspired me to develop a time tracking bot on Slack to record manual tasks in a standardised way. This project was also featured in the curated <code>awesome-serverless</code> <a href="https://github.com/JustServerless/awesome-serverless">list</a>.</p>
+<p>Using the time tracking bot, employees can track their time through Slack. You can watch the 1 min demo below to see  it in action.</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SW2PuoBAy5k&rel=0" frameborder="0" allowfullscreen></iframe>
 
-<p>People can simply type <code>\track &quot;onboarding call&quot; 15m</code> in any Slack chat window and the activity gets recorded in the Google Spreadsheet. After recording an activity, Slack bot compliments the hard work of the employee by choosing a random compliment.</p>
-<p>You can check the source code here.</p>
+<p>A Google Sheet is used to store the time tracking information along with a list of business activities that can be used to record time against. Google Spreadsheet can be shared with your colleagues with varying permission levels. It provides company wide visibility, makes it easy for anyone download the data as CSV and analyse it for insights.</p>
+<p>Time Tracking bot is a Node.js application which runs on AWS Lambda served behind an API Gateway. See the architecture diagram below.</p>
+<p><img src="http://erselaker.com/assets/images/slack-time-tracker-architecture.png" alt="Serverless Architecture" title="Serverless Architecture"></p>
+<p>Instructions on how to set it up can be found on the <a href="https://github.com/ersel/time-tracker-slack-gsheets">GitHub repo.</a></p>
 <h1 id="arduino-simple-io">Arduino Simple IO</h1>
 <p>I&#39;ve written a small input/output library in C++ to use my Arduino Uno R3 with an LCD screen and a keypad. It works by initializing an InputLine at the specified column depending on the size of your LCD screen. Once you initialize an input line then you can add as many text labels and alphanumeric input fields as you like.</p>
 <p>A linked list data structure was used to store labels and input fields added to the line, which made it quite easy to implement cyclic cursor rotation between fields.</p>
