@@ -30,6 +30,15 @@ I would like to add more exercises from <a href="https://en.wikipedia.org/wiki/V
 
 If you would like to contribute, please check this [Wikipedia page for a comprehensive list of techniques](https://en.wikipedia.org/wiki/Mental_calculation) which can be added to the project. I would be happy to help with implementation if you open an issue or submit a pull request on the [GitHub repository.](https://github.com/ersel/mental-math)
 
+# GeoQuiz
+GeoQuiz is a web-app where you could put your geography and country flags knowledge to test. It is built using NeDB, Express, amCharts and CIA World Factbook database.
+
+[![GeoQuiz](http://erselaker.com/assets/images/geoquiz_app.png "GeoQuiz")](http://www.geoquiz.fun)
+
+It is currently running on a free dyno on Heroku, so you might need to wait 5-10 secs before app boots up from sleep.
+
+You can try it at [geoquiz.fun](http://www.geoquiz.fun/)
+
 # ReadNow & ReadLater Chrome Extensions
 Do you end up with a myriad of open tabs on Chrome that you would like to read at some point? Like that interesting post on Medium that you were meant to read for a week now.
 
