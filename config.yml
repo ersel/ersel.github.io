@@ -23,3 +23,10 @@ posts:
         template: post.html
         content: projects.md
         category: projects
+    -
+        title: "Zero to One: Book Summary"
+        filename: zero-to-one-book-summary.html
+        date: 2017-09-18
+        template: post.html
+        content: zero_to_one.md
+        category: books
