@@ -1,6 +1,6 @@
 Thanks to Jahan Zahid for letting me borrow his copy over the first few weeks that I joined Indigo in London. Yet short, this book delivers wealth of wisdom regarding what works and what does not work at startups. I was able to see many parallels between what Peter Thiel advocates and my adventure in the world of startups so far. Here is a short summary of the book along with some notes and commentary.
 
-## Chapter 1: The Challenge of the Future
+# Chapter 1: The Challenge of the Future
 Peter Thiel splits _progress_ into two distinct forms.
 
 **Horizontal Progress** is when small incremental progress is made in a field. In terms of economic activity, companies which follow this pattern simply copy things that work. Thiel calls this pattern **one to many.**
@@ -15,7 +15,7 @@ Peter Thiel splits _progress_ into two distinct forms.
 >
 > 0 -> 1
 
-## Chapter 2: Party Like It's 1999
+# Chapter 2: Party Like It's 1999
 
 This chapter focuses on the psychology of both the entrepreneurs and investors behind dot com bubble in the late 1990s.
 
@@ -54,13 +54,13 @@ Right after listing the 4 learnings, Thiel plays devil's advocate and says **ent
 
 Obviously neither set of learnings are entirely right or wrong. Thiel wants the reader to think for themselves, reactions to past mistakes can be as wrong as the mistakes made. Stay pragmatic and don't be afraid of being labeled as contrarian.
 
-## Chapter 3: All Happy Companies Are Different
+# Chapter 3: All Happy Companies Are Different
 
 According to Thiel, one of the biggest economic lie we are told by the economists is the state of perfect competition which leads to market equilibrium.
 
 The reality is, there is no perfect competition, competition eats away from the same pool of potential profits. In a market with perfect competition, nobody makes any money. Economists are eager to advocate market equilibrium not because it makes economical sense but it is easier to model.
 
-Let's consider the case of Alphabet (Google). Don't be evil has become  company's motto. From the outset Alphabet is advocating responsible business ethics, which sounds great. Howver, it's made possible due to the fact that Google enjoys a monopoly in the internet search market. When was the last time you heard someone say let me Bing that? Google earns 78% of $48.7B US search ad revenues.
+Let's consider the case of Alphabet (Google). Don't be evil has become  company's motto. From the outset Alphabet is advocating responsible business ethics, which sounds great. However, it's made possible due to the fact that Google enjoys a monopoly in the internet search market. When was the last time you heard someone say let me Bing that? Google earns 78% of $48.7B US search ad revenues.
 
 Let's move on to the teaching of this chapter, the difference between the mentality of a monopolist and a non-monopolist.
 
@@ -76,15 +76,15 @@ In contrast, monopolist disguise their monopoly status by describing their targe
 
 Alphabet is an internet technology company, their target market is something like this.
 
-Internet ∪ Software ∪ Mobile Phones ∪ Search Engines
+> Internet ∪ Software ∪ Mobile Phones ∪ Search Engines
 
 Monopoly is the condition of every successful business.
 
-## Chapter 4: Ideology of Competition
+# Chapter 4: Ideology of Competition
 
 It's not only the economists that are fooled by competition, our society is driven by it!
 
-Bright students at a young age start competing for admissions to elite instutions.
+Bright students at a young age start competing for admissions to elite institutions.
 
 Once they reach there, competition intensifies now the target is to land that management consulting, investment banking or blue-chip engineering position.
 
@@ -92,7 +92,7 @@ Once they land at those prestigious jobs, competition reaches new highs. Vicious
 
 Lesson here is that, competition is WAR, and war is a costly business both in terms of time and resources. War should be avoided if it's not worth it. In the case that war is worth having, then you should strike hard and end it quickly. There are no half measures in war.
 
-## Chapter 5: Last Mover Advantage
+# Chapter 5: Last Mover Advantage
 
 Escaping competition is the first step to building a monopoly, but it should be defensible.
 
@@ -147,5 +147,5 @@ Bezos timed move into adjacent and related markets perfectly to build Amazon to 
 Last piece of advice worth mentioning in this chapter is that AVOID DISRUPTING. Media is obsessed by disruptive technology, but most of the time disruptors get disrupted. Don't disrupt. If you intend to do so, well, do it in subtle ways. Disruption attracts the attention of competition as well as regulators. Last people you want to see or hear about.
 
 
-## Note
+# Note
 I am working on writing up the rest of the chapters, check at a later date to read the rest.
