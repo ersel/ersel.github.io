@@ -146,6 +146,58 @@ Bezos timed move into adjacent and related markets perfectly to build Amazon to 
 
 Last piece of advice worth mentioning in this chapter is that AVOID DISRUPTING. Media is obsessed by disruptive technology, but most of the time disruptors get disrupted. Don't disrupt. If you intend to do so, well, do it in subtle ways. Disruption attracts the attention of competition as well as regulators. Last people you want to see or hear about.
 
+# Chapter 6: You Are NOT a Lottery Ticket
+
+This chapter discusses the four different attitudes to future. These are:
+
+Definite optimism: Future can be predicted and it will be better.
+Indefinite optimism: Future can NOT be predicted but it will be better.
+Definite pessimism: Future can be predicted and it will be worse.
+Indefinite pessimisim: Future can NOT be predicted and it will be worse.
+
+There is no such thing as luck, or in other words, everyone is as lucky as everyone else! You get luckier by working harder and smarter.
+
+> Victory awaits him who has everything in order -- luck, people call it.
+>
+> Roald Amundsen, Norwegian Explorer, first explorer to reach South Pole
+
+Western world is in a state of indefinite optimism right now, compared to definite optimism of the Renaissance, Age of Enlightment and Industrial Revolution periods.
+
+When people lack concrete plans, they start to build a portfolio of various options. This is the dominating viewpoint of Western world now.
+
+In middle school you are encouragee to take on various "extra-cirricular" activities. In high school, most ambitious compete to appear omni-competent, curating a diverse resume to prepare for an "unknowable future".
+
+> Come what may, she's ready -- for nothing in particular.
+
+Thiel advocates for the definite optimism. That's how great companies will be built. Instead of pursuing many-sided mediocrity and calling it "well-roundedness", definite optimist strives to be great at something substantive -- to be a monopoly of one.
+
+# Chapter 7: Follow The Money
+
+Thiel opens the chapter by introducing the well-known Pareto Principle. This is also known as power law, 80/20 rule.
+
+Italian economist Vilfredo Pareto showed that 20% of population owned 80% of the land in the country. This is a well-known concept taught in business management field, 80% of your sales comes from only 20% of your clients.
+
+In order to maximise process efficiency, you should focus on 20% of the opportunites which would return 80% of the gains.
+
+If we apply the same rule to your distribution channels, you don't need _n_ many channels, you need 1 or 2 that delivers the results.
+
+Whenever you plan to spend some time taking an action, think of the power law and where your action will fall on the power law distribution. Take fewer actions with bigger impact.
+
+![Power Law Distribution](http://erselaker.com/assets/images/power-law.jpg "Power Law Distribution")
+
+# Chapter 8: Secrets
+
+This chapter is about the secrets, the magic ingredient which makes a great business.
+
+A secret is a truth which very few people agree with you. In order to uncover secrets, you should be looking for them. Many say there are no secrets left in the world to discover, that's exactly why they won't be finding any.
+
+If you happen to find a secret, you have two options. You either keep it to yourself, or you share it with others. One should note that, it's rarely a good idea to tell everybody everything you know.
+
+Every great busiess is built around a secret that's hidden from the outside. Inner workings of Google's PageRank algorithm, Apple iPhone in 2007 etc...
+
+A great company is a conspiracy to change the world, when you share your secret, the recipient becomes a fellow conspirator.
+
+Personal Note: I don't agree with Thiel that you should guard your ideas from the outside world so obsessively. There is always a risk that someone might steal your idea, but setting up a business and developing a product is HARD work involving lots of sweat, blood and tears. "Conspirator" who is running away with your idea will unlikely have the same level of passion and stamina to see it through. Of course you need to be wise about who you share your ideas with. However, in order to make your ideas reality it is necessary to talk to people, gather feedback and recruit loyal conspirators.
 
 # Note
 I am working on writing up the rest of the chapters, check at a later date to read the rest.
