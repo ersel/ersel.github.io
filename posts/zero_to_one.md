@@ -199,5 +199,69 @@ A great company is a conspiracy to change the world, when you share your secret,
 
 Personal Note: I don't agree with Thiel that you should guard your ideas from the outside world so obsessively. There is always a risk that someone might steal your idea, but setting up a business and developing a product is HARD work involving lots of sweat, blood and tears. "Conspirator" who is running away with your idea will unlikely have the same level of passion and stamina to see it through. Of course you need to be wise about who you share your ideas with. However, in order to make your ideas reality it is necessary to talk to people, gather feedback and recruit loyal conspirators.
 
+# Chapter 9: Foundations
+
+Thiel says it's impossible to fix a start-up which is broken at its foundation. Founding principles are important, once they are set it is hard to amend them later down the line. Since 1791, US Constitution was only changed 17 times.
+
+## Co-founders
+Being co-founders is like marriage, it's an arduous journey with many ups and downs. Much like that you would not marry the first person you come across at a slot machine in Vegas (slim chance you'll hit the jackpot), you would not start a company with a stranger.
+
+Complementary skillsets and personalities of founders matter, but how well founders know each other and how well they work together matter just as much!
+
+Founders should share a pre-history before they start a company together, otherwise they're just rolling dice.
+
+Personal note: I can not stress enough how important founder's having a pre-history is. I have personally seen 2 cases that conflict between founders put company at the risk of failure, one ending in administration. In both cases, founders barely knew each other before starting a company and their relations started to crack at the first signs of stress.
+
+Conflicts at startups usually stems from misalignment at 3 important dimensions, these are:
+
+1. *Ownership* who legally owns company's equity. (founders, employees and investors)
+2. *Possession* who controls day to day operations of the company. (founders and employees)
+3. *Control* who formally govern company's affairs. (board of directors and founders)
+
+Make sure each party involved with your startup in one way or another is adequately represented.
+
+## Boardroom of a Startup
+
+> less is more.
+
+Smaller the board, easier it is for directors to communicate, reach consensus and to exercise oversight. However, the very effective nature of a small board also means that board can oppose management quite easily.
+
+When assembling a small board, you need to pick your directors carefully. Each director matters, and even one can give you a lot of headache and jeopardize company's future.
+
+A board of 3 is ideal for private companies.
+
+If you want to rein freely in a dictatorial style, bloat your board to a massive size which will give you full autonomy. If you want to have an effective board, keep it small!
+
+## On the bus, or off the bus
+
+Anyone who doesn't own stock options but regularly draws down salary is MISALIGNED. Their motive would be to extract as much value from the company rather than creating value.
+
+Personal Note: Thiel advocates that everyone at a startup should be full-time and strictly no remote working, but I think times have changed and remote work is perfectly feasible. Furthermore employees would apprecitate a better work/life balance rather than mindless pursuit of capital gain.
+
+## Cash is NOT King
+
+High CEO pay encourages CEO to behave like a politician so she can hold on the entitlement longer.
+
+Cash encourages short term thinking rather than long term value creation. So cash incentives and bonuses should be avoided where possible. Equity is the best way to keep everyone aligned for long term vision.
+
+CEO should also set an example either by taking the LOWEST salary or taking the highest but still a MODEST salary. Thiel tells the striking story of Aaron Levie, CEO of Box. 4 years after founding Box, he paid himself lower than everyone else, lived in a one bedroom apartment 2 blocks from the office. His commitment was crystal clear to everyone in the company. Good CEOs lead by example.
+
+# Chapter 10: The Mechanics Of Mafia
+
+Early PayPal team is known as the PayPal mafia Valley because members of this early team went on to create many succesful companies such as YouTube, Palantir, Tesla, LinkedIn, Yelp and invested in many others. What was so special about the early PayPal team?
+
+Thiel advocates that a startup should make recruiting fellow conspirators a core competency. Hiring should never be outsourced
+
+Your hires should be like-minded people with similar interests and a passion about the problem domain you're working on.
+
+If a hire is forcing you to have a perk war, simply let them go, they are not passionate enough.
+
+A startup is kind of like a cult, with less dogmatism. In order to foster a strong culture, pay attention to these 4 dimensions.
+
+1. Imagery: Techies in SF fashion branded hoodies of the companies they work for, it's a sign of commitment.
+2. Slogans: Do you have catch-phrases, inside jokes? These help foster stronger relations among the team.
+3. Advocacy: What is the problem you're working on? Is your company actively publicising its efforts?
+4. Obsession: Are team members obsessed about solving the problem?
+
 # Note
 I am working on writing up the rest of the chapters, check at a later date to read the rest.
