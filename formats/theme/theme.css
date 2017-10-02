@@ -392,3 +392,10 @@ color: #073642; }
 	box-shadow: 0 0 0 0 #CCC inset;
 	border-radius: 0px;
 }
+
+
+
+.dropcap {
+	font-family: 'BodoniClassic-Fleurs';
+	margin-right: 0.05em;
+}

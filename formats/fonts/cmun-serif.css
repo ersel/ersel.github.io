@@ -46,3 +46,11 @@
 }
 
 
+@font-face {
+	font-family: 'BodoniClassic-Fleurs';
+	src: url('34C89D_0_0.eot');
+	src: url('34C89D_0_0.eot?#iefix') format('embedded-opentype'),
+	url('34C89D_0_0.woff2') format('woff2'),
+	url('34C89D_0_0.woff') format('woff'),
+	url('34C89D_0_0.ttf') format('truetype');
+}
