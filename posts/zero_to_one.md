@@ -263,5 +263,67 @@ A startup is kind of like a cult, with less dogmatism. In order to foster a stro
 3. Advocacy: What is the problem you're working on? Is your company actively publicising its efforts?
 4. Obsession: Are team members obsessed about solving the problem?
 
+# Chapter 11
+
+Distribution of a product is as important as the product itself. Nerds and geeks are skeptical of salespeople, because from the outset it might seem superficial and irrational.
+
+Advertising exists, because it works. If you think you're prone to advertising you're simply fooling yourself. Advertising is not about making you buy a product right at that moment, but creating recurrent  subtle impressions which will drive sales in future.
+
+Technical people are used to producing and evaluating transparent work. If an algorithm is updated, results can be compared to previous run see the impact of change. It doesn't matter how the engineer who wrote the updated algorithm markets it.
+
+In engineering and science, the complexity of the problems to tackle are clearly visible. On the other hand, best type of sales is hidden. Salespeople on endless calls, 2 hour lunches with prospective clients might seem like they're not doing any real work in the eyes of nerds. What nerds miss is that it's hard work to make sales look easy!
+
+We only react abruptly to sales people who are awkward or obvious, the activity of sales at its peak seems invisible. If you think you've never met such a person, you were probably blind to see that you were being sold by a grandmaster.
+
+Best sales is hidden, because people don't like the idea of being sold something. People want to make their own decisions and exercise their right to choose. Hence we rarely see any mentions of sales in salespeople's title.
+
+We call people who sell advertisements - account executives.
+We call people who sell customers - business development managers.
+We call people who sell companies - investment bankers.
+We call people who sell themselves - politicians.
+
+It doesn't matter which profession you're in, even in the realms of academia where its members might like to think they are paragons of reason, study fields are influenced and shaped by few names who are better at getting their papers read and cited by more scholars. For this reason, everyone should work on improving their persuasion and negotiation skills.
+
+If you have invented something but you haven't figured out a way to distribute it, you have a bad business on your hands. You should treat distribution as a fundamental part of your business.
+
+## How to sell a product?
+You need to keep an eye on two metrics for assessing effective distribution. These are Cost of Acquiring a customer (CAC) and Customer Lifetime Value (LTV).
+
+CAC is the amount of money spent in order to get a customer to buy or use your services.
+
+LTV is the total amount of money a customer will be spending on your products or services. If you are running a SaaS business, this might be annual subscription fee multiplied by number of years customer is likely to use your product.
+
+To have a profitable business, you'll need to satisy this equation:
+
+> LTV > CAC
+
+Lifetime value extracted from a user should be higher than the cost of acquiring them. Not exactly rocket science, but it's all about finding the right distribution channel which works for your business.
+
+## Distribution Spectrum
+Depending on the value of each product/service you sell, your distribution effort would fall somewhere among the below spectrum.
+
+[Insert spectrum diagram here]
+
+1 - Complex Sales
+Deal Size: $1m - $100m
+Target: Government, Public Corporations, any entity with very deep pockets.
+If the deal size ranges between $1m to $100m, CEO needs to be involved at every such deal. You need to start at smaller deal sizes, slowly but methodically grow the size of deals your company is doing.
+
+2 - Personal Sales
+Deal Size: $10k - $100k
+Target: Consumer or Companies
+Such deals may involve mortgages, cars, machinery etc... The trick here is to form an efficient sales pipeline which is scalable! Organizing a small but effective sales team which can push the product to the masses is key.
+
+3 - Dead Zone Sales
+Deal Size: ~$1k
+Target: SMEs
+This particular type of deals fall into an unfortunate bracket, where the size of the deal doesn't justify sending a salesperson to close it. On the other hand, because target audience is likely to be small businesses rather than individuals, conventional forms of advertisement is hard to exploit as well.
+E.g: There is no radio show which is listened by majority of SME owners in an area.
+Thiel doesn't offer advice on how to escape the dead zone, so if you're selling to SMEs something worth $1k, you need to get creative with your distribution channel.
+
+4 - Sales
+Deal Size:
+Target:
+
 # Note
 I am working on writing up the rest of the chapters, check at a later date to read the rest.
