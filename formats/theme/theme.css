@@ -416,3 +416,13 @@ color: #073642; }
 		padding-top:0.65rem !important;
 	}
 }
+
+.footer {
+	/* Theodor Band, 1600, Friezes with Birds, Flowers and Meandering Wreaths and Scrolls */
+	/* I have edited the original work a bit */
+	/* https://www.metmuseum.org/art/collection/search/406536?pos=7&pg=1&rpp=20&offset=0&ft=theodor+bang&what=Prints */
+	max-width: 100%;
+	border-radius:0px;
+	padding:0px;
+	border:0px;
+}
