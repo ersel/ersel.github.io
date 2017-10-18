@@ -368,6 +368,7 @@ color: #073642; }
 	max-width: 700px;
 	margin: 1em auto 1em;
 	text-align: center;
+	padding-left:0px;
 }
 .share-buttons li {
 	display: inline;
