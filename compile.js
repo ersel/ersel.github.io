@@ -22,7 +22,9 @@ function getExcerpt(html){
 	while (p.children('img').length > 0) {
 		p = p.next();
 	}
-	return $.text(p).trim();
+	let excerpt = $.text(p).trim();
+	let firstLetter = excerpt[0];
+	return `<span class="dropcap">${firstLetter}</span>${excerpt.slice(1)}`;
 }
 
 // Get document, or throw exception on error
@@ -41,6 +43,16 @@ try {
 			getFile(postContentSrc, (content) => {
 				// convert content from markdown to html
 				var htmlContent = marked(content);
+				// add dropcaps to each paragraph following a h1
+				var $ = cheerio.load(htmlContent);
+				$('h1').next('p').replaceWith((i, el) => {
+					let rawHtml = $(el).html()
+					let firstLetter = rawHtml[0];
+					let style = `<span class="dropcap">${firstLetter}</span>${rawHtml.slice(1)}`;
+					return `<p>${style}</p>`
+				})
+				htmlContent = $.html()
+
 				var compiledTemplate = Handlebars.compile(templateFile);
 
 				// compute data to be baked into html

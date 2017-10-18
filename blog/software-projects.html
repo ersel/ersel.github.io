@@ -3,6 +3,7 @@
 	<head>
 		<meta charset="utf-8" />
 		<title>Software Projects</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<link rel="stylesheet" href="../formats/acm-sig/css/pub.css">
 		<link rel="stylesheet" href="../formats/fonts/cmun-serif.css">
 		<link rel="stylesheet" href="../formats/theme/theme.css">
@@ -21,42 +22,42 @@
 			<h2 class="subtitle">10th of June 2017, 6 min read</h2>
 		</header>
 		<article>
-			<p>I enjoy experimenting with new technologies and as a kinaesthetic learner find it more natural to learn whilst working on a project. I have compiled a list of some software projects that I&#39;ve worked on.</p>
+			<p>I enjoy experimenting with new technologies and as a kinaesthetic learner find it more natural to learn whilst working on a project. I have compiled a list of some software projects that I&apos;ve worked on.</p>
 <h1 id="spotify-terminal-client-for-mac">Spotify Terminal Client for Mac</h1>
-<p>I spend a fair amount of my time at the Terminal, hence I curate a list of helpful functions and aliases in my <a href="https://github.com/ersel/dotfiles">bash profile.</a></p>
+<p><span class="dropcap">I</span> spend a fair amount of my time at the Terminal, hence I curate a list of helpful functions and aliases in my <a href="https://github.com/ersel/dotfiles">bash profile.</a></p>
 <p>On a cold January night, I wondered why should I leave warm and comfortable home row of my keyboard to play music, so I wrote a little Node.js app to control Spotify from the convenience of a terminal window.</p>
 <p><script type="text/javascript" src="https://asciinema.org/a/ejbbvaa8833wq4xn4d2xuc9jx.js" id="asciicast-ejbbvaa8833wq4xn4d2xuc9jx" async></script>
 Using the client you can search for artists, songs, albums or playlists and start playing directly from the search results. You can also pause, stop, skip, repeat, shuffle, set volume and <em>even display the lyrics of the current track!</em></p>
-<p>Client works by talking to <em>Spotify Web API</em> to fetch search results and sends commands to local Spotify application by invoking AppleScript functions. You will need to create a Spotify application and update config to include your Client ID and Secret to use the search functionality. In order to get lyrics feature working, you&#39;ll need to grab an API token so the client can also talk to the the <em>Genius API</em>. For more information <a href="https://github.com/ersel/spotify-cli-mac#set-up">check the set-up section of the documentation.</a></p>
+<p>Client works by talking to <em>Spotify Web API</em> to fetch search results and sends commands to local Spotify application by invoking AppleScript functions. You will need to create a Spotify application and update config to include your Client ID and Secret to use the search functionality. In order to get lyrics feature working, you&apos;ll need to grab an API token so the client can also talk to the the <em>Genius API</em>. For more information <a href="https://github.com/ersel/spotify-cli-mac#set-up">check the set-up section of the documentation.</a></p>
 <p><a href="https://github.com/ersel/spotify-cli-mac">Click here for the GitHub repository</a>, or install the client with npm if you already have Node on your Mac.</p>
 <p><code>npm install spotify-cli-mac -g</code></p>
-<p>Thinking npm is so <em>passé?</em> Be my guest, install using <em>yarn</em> whilst curling your moustache then.</p>
+<p>Thinking npm is so <em>pass&#xE9;?</em> Be my guest, install using <em>yarn</em> whilst curling your moustache then.</p>
 <p><code>yarn global add spotify-cli-mac</code></p>
 <p>Once installed type <code>spotify -h</code> to see a full list of features available at your finger tips.</p>
 <h1 id="mental-math">Mental Math</h1>
-<p>Mental Math is a web app to learn and practice various mental arithmetic tricks, built with <a href="https://vuejs.org/">minimalist MVVM framework Vuejs</a> and <a href="http://bulma.io/">modern flexbox based CSS framework Bulma</a>.</p>
+<p><span class="dropcap">M</span>ental Math is a web app to learn and practice various mental arithmetic tricks, built with <a href="https://vuejs.org/">minimalist MVVM framework Vuejs</a> and <a href="http://bulma.io/">modern flexbox based CSS framework Bulma</a>.</p>
 <p><a href="http://www.mentalmath.fun"><img src="http://erselaker.com/assets/images/mental_math_homepage.png" alt="Mental Math Homepage" title="Mental Math Homepage"></a></p>
 <p>Visit <a href="http://www.mentalmath.fun/">mentalmath.fun</a> to try it out.</p>
 <p>I would like to add more exercises from <a href="https://en.wikipedia.org/wiki/Vedic_Mathematics_(book)">Vedic</a> and <a href="https://en.wikipedia.org/wiki/Trachtenberg_system">Trachtenberg</a> techniques in the future.</p>
 <p>If you would like to contribute, please check this <a href="https://en.wikipedia.org/wiki/Mental_calculation">Wikipedia page for a comprehensive list of techniques</a> which can be added to the project. I would be happy to help with implementation if you open an issue or submit a pull request on the <a href="https://github.com/ersel/mental-math">GitHub repository.</a></p>
 <h1 id="geoquiz">GeoQuiz</h1>
-<p>GeoQuiz is a web-app where you could put your geography and country flags knowledge to test. It is built using NeDB, Express, amCharts and CIA World Factbook database.</p>
+<p><span class="dropcap">G</span>eoQuiz is a web-app where you could put your geography and country flags knowledge to test. It is built using NeDB, Express, amCharts and CIA World Factbook database.</p>
 <p><a href="http://www.geoquiz.fun"><img src="http://erselaker.com/assets/images/geoquiz_app.png" alt="GeoQuiz" title="GeoQuiz"></a></p>
 <p>It is currently running on a free dyno on Heroku, so you might need to wait 5-10 secs before app boots up from sleep.</p>
 <p>You can try it at <a href="http://www.geoquiz.fun/">geoquiz.fun</a></p>
 <h1 id="readnow-readlater-chrome-extensions">ReadNow &amp; ReadLater Chrome Extensions</h1>
-<p>Do you end up with a myriad of open tabs on Chrome that you would like to read at some point? Like that interesting post on Medium that you were meant to read for a week now.</p>
-<p>Well, breathe a sigh of relief because I&#39;ve developed a pair of Chrome extensions to fix this problem.</p>
+<p><span class="dropcap">D</span>o you end up with a myriad of open tabs on Chrome that you would like to read at some point? Like that interesting post on Medium that you were meant to read for a week now.</p>
+<p>Well, breathe a sigh of relief because I&apos;ve developed a pair of Chrome extensions to fix this problem.</p>
 <p>You can install both <a href="https://chrome.google.com/webstore/detail/readlater-bookmarks-in-a/fcabbkcefpkdinlmioihdghblpopckkn?hl=en">ReadLater</a> and <a href="https://chrome.google.com/webstore/detail/readnow-open-bookmarks-fr/fckiipajjnhkmdhehhhhcgkmgdepdefn?hl=en">ReadNow</a> extensions from the <a href="https://chrome.google.com/webstore/search/erselaker?hl=en">Chrome Web Store</a>.</p>
-<p>Once installed, you can click the ReadLater button to save current tab for later reading. When you&#39;re free to read simply click the ReadNow button and saved bookmark will be opened in a new tab and the entry will be removed from ReadLater bookmarks. ReadNow button will also display the number of bookmarks you have queued for reading in the right bottom corner.</p>
+<p>Once installed, you can click the ReadLater button to save current tab for later reading. When you&apos;re free to read simply click the ReadNow button and saved bookmark will be opened in a new tab and the entry will be removed from ReadLater bookmarks. ReadNow button will also display the number of bookmarks you have queued for reading in the right bottom corner.</p>
 <p><img src="http://erselaker.com/assets/images/chrome_extension_buttons.png" alt="ReadLater and ReadNow Buttons" title="ReadLater and ReadNow Buttons"></p>
 <p>On the settings page for ReadNow extension, you can set in which order you would like to read through your bookmarks; first added, last added or in random order.</p>
 <p><img src="http://erselaker.com/assets/images/readnow_options.png" alt="ReadNow Options" title="ReadNow Options"></p>
-<p>Some of you might be thinking, but wait isn&#39;t this what Pocket does? The difference between Pocket and ReadLater/Now is, Pocket is more of a long term bookmark storage solution. ReadLater behaves like a temporary stack where the bookmarks are ephemeral, removed once read.</p>
+<p>Some of you might be thinking, but wait isn&apos;t this what Pocket does? The difference between Pocket and ReadLater/Now is, Pocket is more of a long term bookmark storage solution. ReadLater behaves like a temporary stack where the bookmarks are ephemeral, removed once read.</p>
 <p>Source code for <a href="https://github.com/ersel/ReadNow">ReadNow</a> and <a href="https://github.com/ersel/ReadLater">ReadLater</a> are both on GitHub.</p>
 <h1 id="time-tracking-bot-for-slack">Time Tracking Bot for Slack</h1>
 <blockquote>
-<p>“What gets measured get managed.”- Peter Drucker</p>
+<p>&#x201C;What gets measured get managed.&#x201D;- Peter Drucker</p>
 </blockquote>
 <p>One of the most valuable assets of an early-stage start-up is the time of its employees. While developing a new product, there will be many manual back-office tasks. Deciding on the right order to automate these is crucial to create a scalable product. This experience has inspired me to develop a time tracking bot on Slack to record manual tasks in a standardised way. This project was also featured in the curated <code>awesome-serverless</code> <a href="https://github.com/JustServerless/awesome-serverless">list</a>.</p>
 <p>Using the time tracking bot, employees can track their time through Slack. You can watch the 1 min demo below to see  it in action.</p>
@@ -67,13 +68,13 @@ Using the client you can search for artists, songs, albums or playlists and star
 <p><img src="http://erselaker.com/assets/images/slack-time-tracker-architecture.png" alt="Serverless Architecture" title="Serverless Architecture"></p>
 <p>Instructions on how to set it up can be found on the <a href="https://github.com/ersel/time-tracker-slack-gsheets">GitHub repo.</a></p>
 <h1 id="arduino-simple-io">Arduino Simple IO</h1>
-<p>I&#39;ve written a small input/output library in C++ to use my Arduino Uno R3 with an LCD screen and a keypad. It works by initializing an InputLine at the specified column depending on the size of your LCD screen. Once you initialize an input line then you can add as many text labels and alphanumeric input fields as you like.</p>
+<p><span class="dropcap">I</span>&apos;ve written a small input/output library in C++ to use my Arduino Uno R3 with an LCD screen and a keypad. It works by initializing an InputLine at the specified column depending on the size of your LCD screen. Once you initialize an input line then you can add as many text labels and alphanumeric input fields as you like.</p>
 <p>A linked list data structure was used to store labels and input fields added to the line, which made it quite easy to implement cyclic cursor rotation between fields.</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ON8X_u2eM2M?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 <p>You can see the source <a href="https://github.com/ersel/arduino-simple-io">code here.</a></p>
 <h1 id="yass-g-yet-another-static-site-generator">Yass G! - Yet another static site Generator</h1>
-<p>This is none other than my blog, which is a simple Nodejs script that takes a few Markdown files and generates HTML pages like the one you are reading right now. Feel free to <a href="https://github.com/ersel/ersel.github.io">steal it.</a></p>
+<p><span class="dropcap">T</span>his is none other than my blog, which is a simple Nodejs script that takes a few Markdown files and generates HTML pages like the one you are reading right now. Feel free to <a href="https://github.com/ersel/ersel.github.io">steal it.</a></p>
 
 		</article>
 		<div class="bottom-menu"><a id="home" href="#home">Jump To Top</a></div>

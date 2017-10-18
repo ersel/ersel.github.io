@@ -393,9 +393,25 @@ color: #073642; }
 	border-radius: 0px;
 }
 
+
 .dropcap {
 	font-family: 'BodoniClassic-Fleurs';
-	margin-right: 0.05em;
-	margin-top: 0px !important;
-	font-size: 132px !important;
+	font-weight: normal;
+	font-size: 5rem;
+	line-height: 3rem;
+	float: left;
+	display: inline-block;
+	text-transform: uppercase;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+    height: 3rem;
+    padding-top: 0.4rem;
+    margin-right: 0.50rem;
+}
+@media screen and (max-width: 500px) {
+	.dropcap {
+		font-size: 6em !important;
+		padding-top:0.65rem !important;
+	}
 }
