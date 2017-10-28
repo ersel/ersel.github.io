@@ -197,7 +197,7 @@ Every great busiess is built around a secret that's hidden from the outside. Inn
 
 A great company is a conspiracy to change the world, when you share your secret, the recipient becomes a fellow conspirator.
 
-Personal Note: I don't agree with Thiel that you should guard your ideas from the outside world so obsessively. There is always a risk that someone might steal your idea, but setting up a business and developing a product is HARD work involving lots of sweat, blood and tears. "Conspirator" who is running away with your idea will unlikely have the same level of passion and stamina to see it through. Of course you need to be wise about who you share your ideas with. However, in order to make your ideas reality it is necessary to talk to people, gather feedback and recruit loyal conspirators.
+>Personal Note: I don't agree with Thiel that you should guard your ideas from the outside world so obsessively. There is always a risk that someone might steal your idea, but setting up a business and developing a product is HARD work involving lots of sweat, blood and tears. "Conspirator" who is running away with your idea will unlikely have the same level of passion and stamina to see it through. Of course you need to be wise about who you share your ideas with. However, in order to make your ideas reality it is necessary to talk to people, gather feedback and recruit loyal conspirators.
 
 # Chapter 9: Foundations
 
@@ -236,7 +236,7 @@ If you want to rein freely in a dictatorial style, bloat your board to a massive
 
 Anyone who doesn't own stock options but regularly draws down salary is MISALIGNED. Their motive would be to extract as much value from the company rather than creating value.
 
-Personal Note: Thiel advocates that everyone at a startup should be full-time and strictly no remote working, but I think times have changed and remote work is perfectly feasible. Furthermore employees would apprecitate a better work/life balance rather than mindless pursuit of capital gain.
+>Personal Note: Thiel advocates that everyone at a startup should be full-time and strictly no remote working, but I think times have changed and remote work is perfectly feasible. Furthermore employees would apprecitate a better work/life balance rather than mindless pursuit of capital gain.
 
 ## Cash is NOT King
 
@@ -263,7 +263,7 @@ A startup is kind of like a cult, with less dogmatism. In order to foster a stro
 3. Advocacy: What is the problem you're working on? Is your company actively publicising its efforts?
 4. Obsession: Are team members obsessed about solving the problem?
 
-# Chapter 11
+# Chapter 11: If You Build It, Will They Come?
 
 Distribution of a product is as important as the product itself. Nerds and geeks are skeptical of salespeople, because from the outset it might seem superficial and irrational.
 
@@ -302,28 +302,111 @@ Lifetime value extracted from a user should be higher than the cost of acquiring
 ## Distribution Spectrum
 Depending on the value of each product/service you sell, your distribution effort would fall somewhere among the below spectrum.
 
-[Insert spectrum diagram here]
+![Sales Spectrum](http://erselaker.com/assets/images/sales_spectrum.png "Sales Spectrum")
 
-1 - Complex Sales
+**1 - Complex Sales**
+
 Deal Size: $1m - $100m
+
 Target: Government, Public Corporations, any entity with very deep pockets.
+
 If the deal size ranges between $1m to $100m, CEO needs to be involved at every such deal. You need to start at smaller deal sizes, slowly but methodically grow the size of deals your company is doing.
 
-2 - Personal Sales
+
+**2 - Personal Sales**
+
 Deal Size: $10k - $100k
+
 Target: Consumer or Companies
+
 Such deals may involve mortgages, cars, machinery etc... The trick here is to form an efficient sales pipeline which is scalable! Organizing a small but effective sales team which can push the product to the masses is key.
 
-3 - Dead Zone Sales
-Deal Size: ~$1k
+
+**3 - Dead Zone Sales**
+
+Deal Size: around $1k
+
 Target: SMEs
+
 This particular type of deals fall into an unfortunate bracket, where the size of the deal doesn't justify sending a salesperson to close it. On the other hand, because target audience is likely to be small businesses rather than individuals, conventional forms of advertisement is hard to exploit as well.
 E.g: There is no radio show which is listened by majority of SME owners in an area.
 Thiel doesn't offer advice on how to escape the dead zone, so if you're selling to SMEs something worth $1k, you need to get creative with your distribution channel.
 
-4 - Sales
-Deal Size:
-Target:
+**4 - Small Sales**
+
+Deal Size: around $100
+
+Target: Individuals or businesses. Traditional sales and marketing channels are effective for this type of deals. Advertiser needs to refrain from competing directly with bigger brands, this can be achieved with a contrarian brand persona.
+
+
+**5 - Viral Sales**
+
+Deal Size: around $1
+
+Target: Individuals, this can be achieved leveraging network effects. Refer a friend, incentive mechanisms and gamification.
+
+
+**Power Law of Distribution**
+
+You need to find that *one channel* which drives majority of your sales. That's the power law of distribution.
+
+
+## Everybody Sells
+Look around you, if you don't see any salespeople in your business, that means YOU are the SALESPERSON.
+
+# Man and Machine
+
+Unlike his pal, Elon of PayPal, Thiel's outlook on AI is optimistic. He believes man and machine have complementary skillsets and will build the future by working together.
+
+Consider the case of pattern recognition for instance, a 4 year old can identify a cat quite easily whereas a machine would need gigabytes of training data to come close.
+
+Another example is the fraud detection system Thiel and the team built at PayPal. System used a combination of anomaly detection statistics to flag seemingly fradulent transactions and brought those particular cases to the attention of a human controller to be investigated further. Decisions of human controllers were fed back into the software making it a "human in the loop" AI solution.
+
+Thiel's new company Palantir is bridging the gap between two approaches to national security. Historically, there is a stark contrast between CIA and NSA. CIA adopts a human driven approach, whereas NSA is machine driven. Palantir is adopting a hybrid approach, which uses AI/ML driven techniques to gather and analyse data, but relies on human analysts to provide causal explanations and unique insights.
+
+Thiel believes machines will empower humans instead of replacing them. Worrying about AI is a 22nd Century problem, question we should focus on right now is:
+
+*“How can computers help humans solve hard problems?”*
+
+>Personal Note: I've written 2 essays on this subject which give a more balanced outlook on future, you can read the second part where I discuss the [impact on employment.](http://erselaker.com/blog/artificial-intelligence-essay-part2.html)
+
+# Chapter 13: Seeing Green
+
+Clean-tech bubble in early millennium failed to deliver results. Thiel says this was because clean-tech companies failed to answer any of **7 questions** which every business needs to answer.
+
+**1 - The Engineering Question**
+
+Can you create breakthrough technology instead of incremental improvements?
+
+**2 - The Timing Question**
+
+Is now the right time to start your particular business?
+
+**3 - The Monopoly Question**
+
+Are you starting with a big share of a small market?
+
+**4 - The People Question**
+
+Do you have the right team?
+
+**5 - The Distribution Question**
+
+Do you have a way to not just create but deliver your product?
+
+**6 - The Durability Question**
+
+Will your market position be defensible in 10 or 20 years in the future?
+
+**7 - The Secret Question**
+
+Have you identified a unique opportunity that others don't see?
+
+
+Whatever your business or industry is, a great business plan will have answers to the above 7 questions. If you don't have good answers to above questions, you'll run into a lot of *bad luck* in your endeavour. If you nail all 7, you'll master *fortune and success.*
+
+# Chapter 14: The Founder's Paradox
 
 # Note
+
 I am working on writing up the rest of the chapters, check at a later date to read the rest.
