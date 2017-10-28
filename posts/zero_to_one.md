@@ -407,6 +407,30 @@ Whatever your business or industry is, a great business plan will have answers t
 
 # Chapter 14: The Founder's Paradox
 
-# Note
+Startup founders tend to have extreme character qualities, this might be due to some form of law of attraction. If you have extreme character qualities you'll find yourself in the company of such people, which will further enhance those extreme qualities.
 
-I am working on writing up the rest of the chapters, check at a later date to read the rest.
+Another interesting point Thiel makes about startup founders is not only they have extreme qualities; from the outset they might seem to possess very "opposite" type of traits as well.
+
+Founder's startup might be "valued" multiples of millions, but she might be living on a modest salary within a one bedroom apartment. So she might seem poor, but also rich depending on which angle you look.
+
+Founders might seem poor and rich, genius and idiot or hero and villain at the same time. That's the paradox of being a founder.
+
+So be tolerant of the extreme qualities of founders, that's how they can lead companies beyond mere incrementalism.
+
+Single biggest danger for a founder is to become so certain of his own mythical qualities, he loses his mind.
+
+# Conclusion: Extinction or Singularity
+
+According to Thiel, there are only 2 possible options facing humanity.
+
+First option is that, we'll go into a horrible decline with the extinction of humankind from the face of earth. Global warming, populist politics, nuclear war, global famine are among the contenders for such a doomsday scenario.
+
+Second option is, the rate of advancement of technology will keep accelarating leading to an exponential take-off.
+
+My personal opinion is I would put my faith on the second option, that's the only outcome worth working for.
+
+I would like to end this summary with the ending scene of the cult 1999 film Matrix. Nobody can predict the future, but we all play our parts in to shape it.
+
+*So what part will you play?*
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aTL4qIIxg8A?start=5" frameborder="0" allowfullscreen></iframe>
