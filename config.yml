@@ -30,3 +30,10 @@ posts:
         template: post.html
         content: zero_to_one.md
         category: books
+    -
+        title: "Meditations by Marcus Aurelius"
+        filename: meditations-marcus-aurelius.html
+        date: 2017-12-15
+        template: post.html
+        content: meditations.md
+        category: books
