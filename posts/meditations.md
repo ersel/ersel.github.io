@@ -1,32 +1,30 @@
-Stoicisim is a school of philosophy founded by Zeno of Citium 2300 years ago. However, only surviving texts are from the late Roman period. These include works of Seneca, Musonius Rufus, Epictetus and, Marcus Aurelius. I've recently read Marcus Aurelius' Medidations. I was astonished to see the strength of character and pureness in thought exercised by a man who had supreme power during his lifetime. Marcus Aurelius was the emperor of Roman Empire from 161 to 180. Meditations is a collection of journal entries written by Marcus (without any intention of publication) in which he provides spiritual reflections and exercises to understand himself and make sense of the universe.
+Stoicisim is a school of philosophy founded by Zeno of Citium in 3th Century BC. Only surviving texts are from the late Roman period. These include works of Seneca, Musonius Rufus, Epictetus and, Marcus Aurelius. I've recently read Marcus Aurelius' Medidations. I was astonished to see the strength of character and pureness in thought exercised by a man who had supreme power during his lifetime. Marcus Aurelius was the Roman Emperor from 161 to 180. Meditations is a collection of journal entries written by him (without any intention of publication) in which he provides spiritual reflections and exercises to understand himself and make sense of the universe.
 
-I have compiled my favourite passages in this post so I can read them from time to time. I hope you'll find them inspiring as well.
+I have compiled my favourite passages in this post so I can revisit them from time to time. I hope you'll find them inspiring as well.
 
 # Book 1
 
 In this first book Marcus recognizes everyone who has played a positive role in building his character and understanding of life.
 
-1.3: From my mother: piety, generosity, the avoidance of wrong doing and even the thought of it; also simplicity of living, well clear of the habits of the rich.
+1.3 From my mother: piety, generosity, the avoidance of wrong doing and even the thought of it; also simplicity of living, well clear of the habits of the rich.
 
-1.4: From my great-grandfather: not to have attended schools for the public; to have had good teachers at home, and to realize that this is the sort of thing on which one should spend lavishly
+1.4 From my great-grandfather: not to have attended schools for the public; to have had good teachers at home, and to realize that this is the sort of thing on which one should spend lavishly
 
-1.7: From Rusticus: to grasp the idea of wanting correction and treatment for my character; not to be diverted into a taste for rhetoric, so not writing up my own speculations, delivering my own little moral sermons, or presenting a glorified picture of the ascetic or the philanthropist; to keep clear of speechifying, versifying, and pretentious language; not to walk around at home in ceremonial dress, or do anything else like that; to write letters in an unaffected style, like his own letter written to my mother from Sinuessa; to be readily recalled to conciliation with those who have taken or given offence, just as soon as they themselves are willing to turn back; to read carefully, not satisfied with my own superficial thoughts or quick to accept the facile views of others; to have encountered the Discourses of Epictetus, to which he introduced me with his own copy.
+1.7 From Rusticus: to grasp the idea of wanting correction and treatment for my character; not to be diverted into a taste for rhetoric, so not writing up my own speculations, delivering my own little moral sermons, or presenting a glorified picture of the ascetic or the philanthropist; to keep clear of speechifying, versifying, and pretentious language; not to walk around at home in ceremonial dress, or do anything else like that; to write letters in an unaffected style, like his own letter written to my mother from Sinuessa; to be readily recalled to conciliation with those who have taken or given offence, just as soon as they themselves are willing to turn back; to read carefully, not satisfied with my own superficial thoughts or quick to accept the facile views of others; to have encountered the Discourses of Epictetus, to which he introduced me with his own copy.
 
-1.8: From Apollonius: moral freedom, the certainty to ignore the dice of fortune, and have no other perspective, even for a moment, than that of reason alone; to be always the same man, unchanged in sudden pain, in the loss of a child, in lingeringsickness; to see clearly in his living example that a man cancombine intensity and relaxation; not to be impatient in explanation; the observance of a man who clearly regarded as the least of his gifts his experience and skill in communicating his philosophical insights; the lesson of how to take apparentfavours from one's friends, neither compromised by them norinsensitive in their rejection.
+1.8 From Apollonius: moral freedom, the certainty to ignore the dice of fortune, and have no other perspective, even for a moment, than that of reason alone; to be always the same man, unchanged in sudden pain, in the loss of a child, in lingeringsickness; to see clearly in his living example that a man cancombine intensity and relaxation; not to be impatient in explanation; the observance of a man who clearly regarded as the least of his gifts his experience and skill in communicating his philosophical insights; the lesson of how to take apparentfavours from one's friends, neither compromised by them norinsensitive in their rejection.
 
-1.10: From Alexander the grammarian: not to leap on mistakes, or captiously interrupt when anyone makes an error of vocabulary, syntax, or pronunciation, but neatly to introduce the correct form of that particular expression by way of answer, confirmation, or discussion of the matter itself rather than its phrasing - or by some other such felicitous prompting.
+1.10 From Alexander the grammarian: not to leap on mistakes, or captiously interrupt when anyone makes an error of vocabulary, syntax, or pronunciation, but neatly to introduce the correct form of that particular expression by way of answer, confirmation, or discussion of the matter itself rather than its phrasing - or by some other such felicitous prompting.
 
 # Book 2
 
 Say to yourself first thing in the morning: today I shall meet people who are meddling, ungrateful, aggressive, treacherous, malicious, unsocial. All this has afflicted them through their ignorance of true good and evil. But I have seen that the nature of good is what is right, and the nature of evil what is wrong; and I have reflected that the nature of the offender himself is akin to my own - not a kinship of blood or seed, but a sharing in the same mind, the same fragment of divinity. Therefore I cannot be harmed by any of them, as none will infect me with their wrong. Nor can I be angry with my kinsman or hate him.  We were born for cooperation, like feet, like hands, like eyelids, like the rows of upper and lower teeth. So to work in opposition to one another is against nature: and anger or rejection is opposition. (2.1)
 
-2.4: ...there is a limit circumscribed to your time - if you do not use it to
-clear away your clouds, it will be gone, and you will be gone,
-and the opportunity will not return.
+2.4 ...there is a limit circumscribed to your time - if you do not use it to clear away your clouds, it will be gone, and you will be gone, and the opportunity will not return.
 
-2.8: Failure to read what is happening in another's soul is not easily seen as a cause of unhappiness: but those who fail to attend to the motions of their own soul are necessarily unhappy.
+2.8 Failure to read what is happening in another's soul is not easily seen as a cause of unhappiness: but those who fail to attend to the motions of their own soul are necessarily unhappy.
 
-2.11: You may leave this life at any moment: have this possibility in your mind in all that you do or say or think.
+2.11 You may leave this life at any moment: have this possibility in your mind in all that you do or say or think.
 
 2.12 How all things quickly vanish, our bodies themselves lost in the physical world, the memories of them lost in time; the nature of all objects of the senses - especially those which allure us with pleasure, frighten us with pain, or enjoy the applause of vanity - how cheap they are, how contemptible, shoddy, perishable, and dead: these are matters for our intellectual faculty to consider. And further considerations. What are they, these people whose judgements and voices confer or deny esteem? What is death? Someone looking at death per se, and applying the analytical power of his mind to divest death of its associated images, will conclude then that it is nothing more than a function of nature - and if anyone is frightened of a function of nature, he is a mere child. And death is not only a function of nature, but also to her benefit.
 
@@ -193,4 +191,48 @@ All that happens is an event either within your natural ability to bear it, or n
 
 10.10 A spider is proud to trap a fly. Men are proud of their own hunting - a hare, a sprat in the net, boars, bears, Sarmatian prisoners. If you examine their motives, are they not all bandits?
 
-> Check at a later date for the last 2 books.
+10.16 No more roundabout discussion of what makes a good man. Be one!
+
+10.30 Whenever you take offence at the wrong done by another, move on at once to consider what similar wrong you are committing - it could be setting value on money, or pleasure, or reputation, and so on through the categories. This reflection will quickly damp your anger, aided by the further thought that the man is acting under compulsion - what else can he do? Or, if you can, remove the cause of his compulsion.
+
+10.33 Mind and reason have the power, by their nature and at their will, to move through every obstacle.
+
+# Book 11
+
+The external things whose pursuit or avoidance troubles you do not force themselves on you, but in a way you yourself go out to them. However that may be, keep your judgement of them calm and they too will stay still - then you will not be seen either to pursue or to avoid. (11.11)
+
+11.13 Someone despises me? That is his concern. But I will see to it that I am not found guilty of any word or action deserving contempt. Will he hate me? That is his concern. But I will be kind and well-intentioned to all, and ready to show this very person what he is failing to see - not in any criticism or display of tolerance, but with genuine good will
+
+11.15 The rotten pretence of the man who says, 'I prefer to be honest with you'! What are you on about, man? No need for this preface - the reality will show. It should be written on your forehead, immediately clear in the tone of your voice and the light of your eyes, just as the loved one can immediately read all in the glance of his lovers. In short, the good and honest man should have the same effect as the unwashed - anyone close by as he passes detects the aura, willy-nilly, at once. Calculated honesty is a stiletto. There is nothing more degrading than the friendship of wolves: avoid that above all. The good, honest, kindly man has it in his eyes, and you cannot mistake him.
+
+11.17 With each object of experience consider its origin, its constituents, what it is changing into, what it will be when changed - and that no harm will come to it.
+
+11.18 When you are high in indignation and perhaps losing patience, remember that human life is a mere fragment of time and shortly we are all in our graves.
+
+11.21 'The man without one and the same aim in life cannot himself stay one and the same throughout his life.' The maxim is incomplete unless you add what sort of aim that should be. Judgements vary of the whole range of various things taken by the majority to be goods in one way or another, but only one category commands a universal judgement, and that is the good of the community. It follows that the aim we should set ourselves is a social aim, the benefit of our fellow citizens. A man directing all his own impulses to this end will be consistent in all his actions, and therefore the same man throughout.
+
+11.24 At their festivals the Spartans would put seats for visitors in the shade, and sit themselves wherever they could.
+
+11.34 Epictetus used to say that when you kiss your child you should say to yourself: 'Tomorrow you may be dead.' But these are ominous words! 'No,' he replies, 'nothing is ominous which points to a natural process. Otherwise it would be ominous to speak of the corn being reaped.'
+
+11.36 'No thief can steal your will' - so Epictetus.
+
+11.39 Socrates used to question thus. 'What do you want to have?  The souls of rational or irrational beings?' 'Rational.' 'What sort of rational beings? The pure or the lower?' 'The pure.' 'Why then don't you aim for that?' 'Because we have it.' 'Why then your fighting and disagreements?'
+
+# Book 12
+
+The model for the application of your principles is the boxer rather than the gladiator. The gladiator puts down or takes up the sword he uses, but the boxer always has his hands and needs only to clench them into fists. (12.9)
+
+12.13 How absurd - and a complete stranger to the world - is the man surprised at any aspect of his experience in life!
+
+12.15 The light of a lamp shines on and does not lose its radiance until it is extinguished. Will then the truth, justice, and selfcontrol which fuel you fail before your own end?
+
+12.16 Wanting the bad man not to do wrong is like wanting the fig-tree not to produce rennet in its figs, babies not to cry, horses not to neigh, or any other inevitable fact of nature. What else can he do with a state of mind like his? So if you are really keen, cure his state.
+
+12.17 If it is not right, don't do it: if it is not true, don't say it.
+
+12.22 That all is as thinking makes it so - and you control your thinking. So remove your judgements whenever you wish and then there is calm - as the sailor rounding the cape finds smooth water and the welcome of a waveless bay.
+
+12.32 What a tiny part of the boundless abyss of time has been allotted to each of us - and this is soon vanished in eternity; what a tiny part of the universal substance and the universal soul; how tiny in the whole earth the mere clod on which you creep. Reflecting on all this, think nothing important other than active pursuit where your own nature leads and passive acceptance of what universal nature brings.
+
+12.36 Mortal man, you have lived as a citizen in this great city. What matter if that life is five or fifty years? The laws of the city apply equally to all. So what is there to fear in your dismissal from the city? This is no tyrant or corrupt judge who dismisses you, but the very same nature that brought you in. It is like the officer who engaged a comic actor dismissing him from the stage. 'But I have not played my five acts, only three.' 'True, but in life three acts can be the whole play.' Completion is determined by that being who caused first your composition and now your dissolution. You have no part in either causation. Go then in peace: the god who lets you go is at peace with you.
