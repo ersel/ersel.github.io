@@ -144,3 +144,53 @@ For a rational being, to act in accordance with nature is also to act in accorda
 7.71 It is ridiculous not to escape from one's own vices, which is possible, while trying to escape the vices of others, which is impossible.
 
 7.73 When you have done good and another has benefited, why do you still look, as fools do, for a third thing besides - credit for good works, or a return?
+
+# Book 8
+
+If you have a true perception of how things lie, abandon any concern for reputation, and be satisfied if you can just live the rest of your life, whatever remains, in the way your nature wishes. You must consider, then, what those wishes are, and then let nothing else distract you. You know from experience that in all your wanderings you have nowhere found the good life - not in logic, not in wealth, not in glory, not in indulgence: nowhere. Where then is it to be found? In doing what man's nature requires. And how is he to do this? By having principles to govern his impulses and actions. What are these principles?  Those of good and evil - the belief that nothing is good for a human being which does not make him just, self-controlled, brave, and free: and nothing evil which does not make him the opposite of these. (8.1)
+
+8.2 Ask yourself this about each action: 'How does this sit with me? Shall I regret it?' In a short while I am dead and all things are gone.
+
+8.4 Alexander, Julius Caesar, Pompey - what are they to Diogenes, Heraclitus, Socrates? These men saw into reality, its causes and its material, and their directing minds were their own masters. As for the former, they were slaves to all their ambitions.
+
+8.12 When you are reluctant to get up from your sleep, remind yourself that it is your constitution and man's nature to perform social acts, whereas sleep is something you share with dumb animals. Now what accords with the nature of each being is thereby the more closely related to it, the more in its essence, and indeed the more to its liking.
+
+8.14 Whenever you meet someone, ask yourself first this immediate question: 'What beliefs does this person hold about the good and bad in life?' Because if he believes this or that about pleasure and pain and their constituents, about fame and obscurity, death and life, then I shall not find it surprising or strange if he acts in this or that way, and I shall remember that he has no choice but to act as he does.
+
+8.26 Man's joy is to do man's proper work. And work proper to man is benevolence to his own kind, disdain for the stirrings of the senses, diagnosis of the impressions he can trust, contemplation of universal nature and all things thereby entailed.
+
+8.32 You must compose your life action by action, and be satisfied if each action achieves its own end as best can be: and no one can prevent you from that achievement. 'But there will be some external obstacle.' No obstacle, though, to justice, self-control, and reason. 'But perhaps some other source of action will be obstructed.' Well, gladly accept the obstruction as it is, make a judicious change to meet the given circumstance, and another action will immediately substitute and fit into the composition of your life as discussed.
+
+8.48 A mind free from passions is a fortress: people have no stronger place of retreat, and someone taking refuge here is then impregnable. Anyone who has not seen this is short of wisdom: anyone who has seen it and does not take refuge is short of fortune.
+
+8.53 Do you want the praise of a man who curses himself three times 53 an hour? Do you want to please a man who can't please himself?  Can a man please himself when he regrets almost everything he does?
+
+8.58 He who fears death fears either unconsciousness or another sort of consciousness. Now if you will no longer be conscious you will not be conscious either of anything bad. If you are to take on a different consciousness, you will be a different being and life will not cease.
+
+8.59 Men are born for the sake of each other. So either teach or tolerate.
+
+# Book 9
+
+Erase the print of imagination, stop impulse, quench desire: keep your directing mind its own master. (9.7)
+
+9.18 Penetrate into their directing minds, and you will see what sort of critics you fear - and what poor critics they are of themselves.
+
+9.20 You should leave another's wrong where it lies.
+
+9.30 Consider too the lives once lived by others long before you, the lives that will be lived after you, the lives lived now among foreign tribes; and how many have never even heard your name, how many will very soon forget it, how many may praise you now but quickly turn to blame. Reflect that neither memory nor fame, nor anything else at all, has any importance worth thinking of.
+
+9.34 What are the directing minds of these people? What are they set on, what governs their likes and values? Train yourself to look at their souls naked. When they think that their blame will hurt or their praise advantage, what a conceit that is!
+
+9.40 Is it not then better to use your own power in freedom rather than show a servile and supine concern for what you cannot control?
+
+9.42 Whenever you are offended at someone's lack of shame, you should immediately ask yourself: 'So is it possible for there to be no shameless people in the world?' It is not possible. Do not then ask for the impossible. This person is just one of the shameless inevitably existing in the world. Have the same thought ready for the rogue, the traitor, every sort of offender.
+
+# Book 10
+
+All that happens is an event either within your natural ability to bear it, or not. So if it is an event within that ability, do not complain, but bear it as you were born to. If outside that ability, do not complain either: it will take you away before you have the chance for complaint. Remember, though, that you are by nature born to bear all that your own judgement can decide bearable, or tolerate in action, if you represent it to yourself as benefit or duty. (10.3)
+
+10.8 A great help to keeping these claims to virtue fresh in your mind will be to keep your mind on the gods, remembering that what they want is not servile flattery but the development of all rational beings into their own image: they want the fig-tree to do the proper work of a fig-tree, the dog of a dog, the bee of a bee - and man the proper work of man.
+
+10.10 A spider is proud to trap a fly. Men are proud of their own hunting - a hare, a sprat in the net, boars, bears, Sarmatian prisoners. If you examine their motives, are they not all bandits?
+
+> Check at a later date for the last 2 books.
