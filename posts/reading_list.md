@@ -969,3 +969,724 @@ Iris Chang (1968 - 2004)
 
 The Rape of Nanking
 
+# St John's Great Books
+
+Aeschylus - Agamemnon
+
+Aeschylus - Libation Bearers
+
+Aeschylus - Eumenides
+
+Aeschylus - Prometheus Bound
+
+Archimedes - “On the Equilibrium of Planes
+
+Archimedes - ” “On Floating Bodies”
+
+Aristophanes - Clouds
+
+Aristotle - Poetics
+
+Aristotle - Physics
+
+Aristotle - Metaphysics
+
+Aristotle - Nicomachean Ethics
+
+Aristotle - On Generation and Corruption
+
+Aristotle - Politics
+
+Aristotle - Parts of Animals
+
+Aristotle - Generation of Animals
+
+Amedeo Avogadro - “Essay on a Manner of Determining the Relative Masses of the Elementary Molecules of Bodies”
+
+Claude Berthollet - “Excerpt from Essai de Statique Chimique”
+
+Joseph Black - “Extracts from Lectures on the Elements of Chemistry”
+
+Stanislao Cannizzaro - “Letter to Professor S. De Luca”
+
+John Dalton - “Extracts from A New System of Chemical Philosophy”
+
+Hans Driesch - “The Science and Philosophy of the Organism”
+
+Euclid - Elements
+
+Euripides - Hippolytus
+
+Euripides - Bacchae
+
+Daniel Fahrenheit - “The Fahrenheit Scale”
+
+Joseph-Louis Gay-Lussac - “On the Expansion of Gases by Heat
+
+Joseph-Louis Gay-Lussac - ” “Memoir on the Combination of Gaseous Substances with Each Other”
+
+William Harvey - On The Motion of the Heart and Blood in Animals
+
+Herodotus - Histories
+
+Homer - Iliad
+
+Homer - Odyssey
+
+Antoine Lavoisier - Elements of Chemistry
+
+Lucretius - On the Nature of Things
+
+Edme Mariotte - Essays
+
+Dmitri Mendeleev - “The Periodic Law of the Chemical Elements”
+
+Nicomachus - Arithmetic
+
+Blaise Pascal - Treatise on the Equilibrium of Liquids
+
+Plato - Meno
+
+Plato - Gorgias
+
+Plato - Republic
+
+Plato - Apology
+
+Plato - Crito
+
+Plato - Phaedo
+
+Plato - Symposium
+
+Plato - Parmenides
+
+Plato - Theaetetus
+
+Plato - Sophist
+
+Plato - Timaeus
+
+Plato - Phaedrus
+
+Plutarch - “Lycurgus
+
+Plutarch - ” “Solon”
+
+J.L. Proust - “Excerpt from Sur Les Oxidations Metalliques”
+
+Ptolemy - Almagest
+
+Sappho - Poems 1 and 31
+
+Sophocles - Oedipus Rex
+
+Sophocles - Oedipus at Colonus
+
+Sophocles - Antigone
+
+Sophocles - Philoctetes
+
+Sophocles - Ajax
+
+Hans Spemann - “The Organizer-Effect in Embryonic Development” (Nobel Lecture 1935)
+
+Hans Spemann - “Embryonic Development and Induction”
+
+J.J. Thomson - “Extracts from System of Chemistry”
+
+Thucydides - The History of the Peloponnesian War
+
+Rudolf Virchow - “Cellular Pathology Lectures”
+
+Virginia Woolf - On Not Knowing Greek
+
+Hebrew Bible - 
+
+New Testament - 
+
+Dante Alighieri - Divine Comedy
+
+Anselm - Proslogium
+
+Apollonius - Conics
+
+Thomas Aquinas - Summa Theologiae
+
+Aristotle - De Anima
+
+Aristotle - On Interpretation
+
+Aristotle - Prior Analytics
+
+Aristotle - Categories
+
+Augustine - Confessions
+
+Johann Sebastian Bach - St. Matthew Passion
+
+Johann Sebastian Bach - Inventions
+
+Francis Bacon - Novum Organum
+
+Aphra Behn - “The Disappointment”
+
+Anne Bradstreet - Poems
+
+Geoffrey Chaucer - Canterbury Tales
+
+Nicolaus Copernicus - On the Revolution of the Heavenly Spheres
+
+Giovanni Pierluigi da Palestrina - Missa Papae Marcelli
+
+Michel de Montaigne - Essays
+
+René Descartes - Geometry
+
+René Descartes - Discourse on Method
+
+John Donne - Poems
+
+Princess Elisabeth - The Correspondence Between Princess Elisabeth of Bohemia and René Descartes
+
+Epictetus - Discourses
+
+Epictetus - Manual
+
+Joseph Haydn - Quartets
+
+Johannes Kepler - Astronomia Nova
+
+Livy - Early History of Rome
+
+Anne Locke - Poems
+
+Niccolò Machiavelli - The Prince
+
+Niccolò Machiavelli - Discourses
+
+Maimonides - Guide for the Perplexed
+
+Andrew Marvell - Poems
+
+Claudio Monteverdi - L’Orfeo
+
+Wolfgang Amadeus Mozart - Operas
+
+Albert Murray - Stomping the Blues
+
+Blaise Pascal - Generation of Conic Sections
+
+Plotinus - The Enneads
+
+Plutarch - “Caesar
+
+Plutarch - ” “Cato the Younger
+
+Plutarch - ” “Antony
+
+Plutarch - ” “Brutus”
+
+Ptolemy - Almagest
+
+Sappho - Poems
+
+Franz Schubert - Songs
+
+William Shakespeare - Richard II
+
+William Shakespeare - Henry IV
+
+William Shakespeare - The Tempest
+
+William Shakespeare - As You Like It
+
+William Shakespeare - Hamlet
+
+William Shakespeare - Othello
+
+William Shakespeare - Macbeth
+
+William Shakespeare - King Lear
+
+William Shakespeare - and Sonnets
+
+Igor Stravinsky - Symphony of Psalms
+
+Tacitus - Annals
+
+Ludwig van Beethoven - Third Symphony
+
+François Viète - Introduction to the Analytical Art
+
+Virgil - Aeneid
+
+Lady Mary Wroth - “A Crown of Sonnets Dedicated to Love”
+
+United States Historical Documents - Articles of Confederation
+
+United States Historical Documents - Declaration of Independence
+
+United States Historical Documents - Constitution of the United States of America
+
+André-Marie Ampère - Essays
+
+Jane Austen - Pride and Prejudice
+
+Jane Austen - Emma
+
+Daniel Bernoulli - “On the Vibrating String”
+
+Miguel de Cervantes - Don Quixote
+
+Charles-Augustin de Coulomb - “Excerpts from Coulomb’s Mémoires sur l’électricité et le magnétisme”
+
+Madame de La Fayette - Princess of Clèves
+
+Jean de La Fontaine - Fables
+
+François de La Rochefoucauld - Maxims
+
+Richard Dedekind - Essays on the Theory of Numbers
+
+René Descartes - Meditations
+
+René Descartes - Rules for the Direction of the Mind
+
+George Eliot - Middlemarch
+
+Leonhard	Euler - “Remarks on the Preceding Papers by Mr. Bernoulli”
+
+Michael Faraday - “Experimental Researches in Electricity”
+
+Benjamin	Franklin - “Excerpt from several letters to Peter Collinson on the nature of electricity”
+
+Galileo Galilei - Two New Sciences
+
+William Gilbert - “De Magnete”
+
+Hamilton, Jay, and Madison - The Federalist
+
+Nathaniel Hawthorne - The Scarlet Letter
+
+Thomas Hobbes - Leviathan
+
+David Hume - Treatise of Human Nature
+
+Christiaan Huygens - Treatise on Light
+
+Christiaan Huygens - On the Movement of Bodies by Impact
+
+Immanuel Kant - Critique of Pure Reason
+
+Immanuel Kant - Foundations of the Metaphysics of Morals
+
+Gottfried Wilhelm Leibniz - Monadology
+
+Gottfried Wilhelm Leibniz - Discourse on Metaphysics
+
+Gottfried Wilhelm Leibniz - Essay on Dynamics
+
+Gottfried Wilhelm Leibniz - Philosophical Essays
+
+Gottfried Wilhelm Leibniz - Principles of Nature and Grace
+
+John Locke - Second Treatise of Government
+
+James Clerk Maxwell - “On Faraday’s Lines of Force
+
+James Clerk Maxwell - ” “On Physical Lines of Force
+
+James Clerk Maxwell - ” “A Dynamical Theory of the Electromagnetic Field”
+
+John Milton - Paradise Lost
+
+Molière - Le Misanthrope
+
+Wolfgang Amadeus Mozart - Don Giovanni
+
+Isaac Newton - Principia Mathematica
+
+Jean-Antoine Nollet - “Observations on Several New Electrical Phenomena”
+
+Hans Christian Ørsted - “Experiments concerning the efficacy of electric conflict on the magnetic needle”
+
+Blaise Pascal - Pensées
+
+Jean Racine - Phèdre
+
+Jean-Jacques Rousseau - Social Contract
+
+Jean-Jacques Rousseau - The Origin of Inequality
+
+Adam Smith - Wealth of Nations
+
+Baruch Spinoza - Theologico-Political Treatise
+
+Baruch Spinoza - Ethics
+
+Jonathan Swift - Gulliver’s Travels
+
+Brook Taylor - “On the motion of the stretched string”
+
+Mark Twain - The Adventures of Huckleberry Finn
+
+Alessandro Volta - “On the Electricity excited by the mere contact of conducting substances of different kinds”
+
+William Wordsworth - The Two-Part Prelude of 1799
+
+Richard Wagner - Tristan and Isolde
+
+Thomas Young - “On the Nature of Light and Colors”
+
+Hannah Arendt - The Human Condition
+
+Samuel Beckett - Waiting for Godot
+
+The Bhagavad Gita - 
+
+Albert Camus - The Stranger
+
+Daode jing - 
+
+Madame de Sévigne - Letters
+
+Fyodor Dostoevsky - The Devils
+
+Marcel Duchamp - Essays
+
+Ralph Ellison - Invisible Man
+
+Euripides - Alcestis; Medea; Hecuba; The Trojan Women
+
+Richard Feynman - QED
+
+Gustave Flaubert - Madame Bovary
+
+Michel Foucault - Discipline and Punish; Security
+
+Michel Foucault - Territory
+
+Michel Foucault - and Population
+
+Gabriel García Márquez - One Hundred Years of Solitude
+
+Edward Gibbon - History of the Decline and Fall of the Roman Empire
+
+G. H. Hardy - A Course of Pure Mathematics
+
+Georg Hegel - Philosophy of Nature
+
+Georg Hegel - Elements of Philosophy of Right
+
+Martin Heidegger - What is Metaphysics?
+
+Alfred Hitchcock - Selected movies
+
+Henry James - The Portrait of a Lady
+
+James Joyce - Ulysses
+
+Soren Kierkegaard - Either/Or
+
+Laozi - Dao De Jing
+
+Halldór Laxness - Independent People
+
+Emmanuel Levinas - Totality and Infinity
+
+Konrad Lorenz - Studies in Animal and Human Behavior
+
+Jorge Luis Borges - Ficciones
+
+Ibn Mājah - The Sunan
+
+Édouard Manet - Art
+
+Herman Melville - Moby Dick
+
+Arthur Miller - Death of a Salesman
+
+Toni Morrison - Beloved
+
+Friedrich Nietzsche - Gay Science
+
+Flannery O’Connor - Wise Blood
+
+Thomas Piketty - Capital
+
+Marcel Proust - Swann’s Way
+
+Marcel Proust - Remembrance of Things Past
+
+Ranier Maria Rilke - The Notebooks of Malte Laurids Brigge
+
+The Rise and Decline of the Roman Republic - 
+
+Jean-Jacques Rousseau - Emile
+
+Bertrand Russell - An Introduction to Mathematical Philosophy
+
+William Shakespeare - Measure for Measure
+
+Oswald Spengler - The Decline of the West
+
+Igor Stravinsky - Music
+
+Voltaire - Candide
+
+Eudora Welty - Short stories
+
+Tennesee Williams - A Streetcar Named Desire
+
+Zhuangzi - The Works of Zhuangzi
+
+Virginia Woolf - The Waves
+
+James Joyce - Finnegans Wake
+
+Kate Chopin - The Awakening
+
+Zora Neale Hurston - Their Eyes Were Watching God
+
+V.S. Naipaul - A House for Mr. Biswas
+
+William Gaddis - The Recognitions
+
+Neuroscience - 
+
+United States Supreme Court Decisions - 
+
+James Baldwin - Stranger in the Village
+
+James Baldwin - The Fire Next Time
+
+Charles Baudelaire - Les Fleurs du Mal
+
+George Beadle & Edward Tatum - Essays
+
+Elizabeth Bishop - Poems
+
+Niels Bohr - “On the Spectrum of Hydrogen”
+
+Theodor Boveri - Essays
+
+Gwendolyn Brooks - Sonnets from Children of the Poor
+
+Joseph Conrad - Heart of Darkness
+
+Charles Darwin - Origin of Species
+
+Clinton Davisson - Essays
+
+Simone de Beauvoir - The Second Sex
+
+Louis de Broglie - “Matter Waves”
+
+Alexis de Tocqueville - Democracy in America
+
+Emily Dickinson - Poems
+
+Fyodor Dostoevsky - Brothers Karamazov
+
+Frederick Douglass - Selected speeches
+
+W. E. B. Du Bois - The Souls of Black Folk
+
+Albert Einstein - “Relativity
+
+Albert Einstein - ” “On the Electrodynamics of Moving Bodies
+
+Albert Einstein - ” “On the Influence of Gravitation on the Propagation of Light
+
+Albert Einstein - ” “The Foundation of the General Theory of Relativity
+
+Albert Einstein - ” “Does the Inertia of a Body Depend upon its Energy Content?”
+
+T. S. Eliot - Poems
+
+Michael Faraday - “On the Absolute Quantity of Electricity Associated with the Particles or Atoms of Matter”
+
+William Faulkner - Go Down
+
+William Faulkner - Moses
+
+Gustave Flaubert - Un Coeur Simple
+
+Sigmund Freud - Introductory Lectures on Psychoanalysis
+
+Sigmund Freud - Mourning and Melancholia
+
+Sigmund Freud - Beyond the Pleasure Principle
+
+Hamilton, Jay, and Madison - The Federalist Papers
+
+G. H. Hardy - “Mendelian Proportions in a Mixed Population”
+
+Georg Hegel - Phenomenology of Mind
+
+Martin Heidegger - Basic Writings
+
+Martin Heidegger - The Word of Nietzsche: God is Dead
+
+Martin Heidegger - Introduction to Metaphysics
+
+Werner Karl Heisenberg - “Critique of the Physical Concepts of the Particle Picture”
+
+Edmund Husserl - The Crisis of the European Sciences and Transcendental Phenomenology
+
+François Jacob & Jacques Monod - Essays
+
+Søren Kierkegaard - Philosophical Fragments
+
+Søren Kierkegaard - Fear and Trembling
+
+Jean-Baptiste Lamarck - “Zoological Philosophy”
+
+Abraham Lincoln - Selected speeches
+
+Nikolai Lobachevsky - Theory of Parallels
+
+Karl Marx - Capital
+
+Karl Marx - The Economic and Philosophic Manuscripts of 1844
+
+Karl Marx - The German Ideology
+
+Herman Melville - Benito Cereno
+
+Gregor Mendel - “Experiments with Plant Hybridization”
+
+Hermann Minkowski - “Space and Time”
+
+Robert Andrews Millikan - “The Electron”
+
+Wolfgang Amadeus	Mozart - Don Giovanni
+
+Thomas Morgan - Evolution and Genetics
+
+Thomas Morgan - “The Chromosomes and Mendel’s Two Laws
+
+Thomas Morgan - ” “The Linkage Groups and the Chromosomes
+
+Thomas Morgan - ” “Sex-Linked Inheritance
+
+Thomas Morgan - ” “Crossing-Over”
+
+Toni Morrison - Song of Solomon
+
+Friedrich Nietzsche - Beyond Good and Evil
+
+Flannery O’Connor - Good Country People
+
+Flannery O’Connor - Revelation
+
+Flannery O’Connor - The Displaced Person
+
+Sylvia Plath - Poems
+
+Max Planck - “The Quantum Hypothesis”
+
+Plato - Phaedrus
+
+Arthur Rimbaud - Poems
+
+Ernest Rutherford - “The Scattering of α & β Particles by Matter and the Structure of the Atom”
+
+Erwin Schrödinger - “Four Lectures of Wave Mechanics—First Lecture”
+
+Wallace Stevens - Poems
+
+Joel Sussman - Essays
+
+Walter Sutton - Essays
+
+J. J. Thomson - “Cathode Rays”
+
+Leo Tolstoy - War and Peace
+
+Paul Valéry - Poems
+
+Johann Wolfgang von Goethe - Faust
+
+Richard Wagner - Tristan and Isolde
+
+Booker T. Washington - “Atlanta Exposition Address
+
+Booker T. Washington - ” “Our New Citizen
+
+Booker T. Washington - ” “Democracy and Education”
+
+Virginia Woolf - Mrs. Dalloway
+
+Virginia Woolf - To the Lighthouse
+
+Virginia Woolf - A Room of One’s Own
+
+James Watson & Francis Crick - Essays
+
+William Wordsworth - The Two-Part Prelude of 1799
+
+William Butler Yeats - Poems
+
+Hannah Arendt - The Human Condition
+
+Hannah Arendt - The Origins of Totalitarianism
+
+Albert Camus - The Stranger
+
+Madame de Sévigné - Letters
+
+Marcel Duchamp - Essays
+
+Richard Feynman - QED
+
+Gabriel García Márquez - One Hundred Years of Solitude
+
+Edward Gibbon - The History of the Decline and Fall of the Roman Empire
+
+G. H. Hardy - A Course of Pure Mathematics
+
+Henry James - The Portrait of a Lady
+
+Laozi - Dao De Jing
+
+Halldór Laxness - Independent People
+
+Konrad Lorenz - Studies in Animal and Human Behavior
+
+Jorge Luis Borges - Ficciones
+
+Ibn Mājah - The Sunan
+
+Édouard Manet - Art
+
+Thomas Piketty - Capital
+
+Marcel Proust - Remembrance of Things Past
+
+Ranier Maria Rilke - The Notebooks of Malte Laurids Brigge
+
+Bertrand Russell - An Introduction to Mathematical Philosophy
+
+William Shakespeare - Measure for Measure
+
+Oswald Spengler - The Decline of the West
+
+Igor Stravinsky - Music
+
+Voltaire - Candide
+
+Zhuangzi - The Works of Zhuangzi
+
+Virginia Woolf - The Waves
+
+James Joyce - Finnegans Wake
+
+Kate Chopin - The Awakening
+
+Zora Neale Hurston - Their Eyes Were Watching God
+
+V.S. Naipaul - A House for Mr. Biswas
+
+William Gaddis - The Recognitions
