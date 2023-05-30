@@ -1690,3 +1690,62 @@ Zora Neale Hurston - Their Eyes Were Watching God
 V.S. Naipaul - A House for Mr. Biswas
 
 William Gaddis - The Recognitions
+
+43 . The Death and Life of Great American Cities by Jane Jacobs
+
+49 . The Road to Serfdom by Friedrich von Hayek
+
+64 . Parallel Lives by Plutarch
+
+69 . The Affluent Society by John Kenneth Galbraith
+
+71 . The Open Society by Karl Popper
+
+81 . The Federalist Papers by Alexander Hamilton, James Madison, John Jay
+
+89 . The Decline and Fall of the Roman Empire by Edward Gibbon
+
+Why nations fail
+
+113 . On Liberty by John Stuart Mill
+
+114 . Summa Theologica by Thomas Aquinas
+
+124 . An Enquiry Concerning Human Understanding by David Hume
+
+125 . Capitalism and Freedom by Milton Friedman
+
+127 . Capitalism, Socialism, and Democracy by Joseph A. Schumpeter
+
+131 . The Tipping Point by Malcolm Gladwell
+
+136 . The Praise of Folly by Erasmus
+
+158 . Tristes Tropiques by Claude Lévi-Strauss
+
+160 . History of My Life by Giacomo Casanova
+
+164 . Zen and the Art of Motorcycle Maintenance by Robert M. Pirsig
+
+168 . The Autobiography of Benjamin Franklin by Benjamin Franklin
+
+171 . The Conservative Mind by Russell Kirk
+
+180 . The Age of Reform by Richard Hofstadter
+
+192 . Freakonomics by Steven D. Levitt, Stephen J. Dubner
+
+217 . Two Treatises of Government by John Locke
+
+216 . Being and Time by Martin Heidegger
+
+245 . Economy and Society by Max Weber
+
+286 . The Rise of Theodore Roosevelt by Edmund Morris
+
+288 . Correspondence by Voltaire
+
+299. Cato's Letters
+
+300. Federalist Papers (edited) 
+
