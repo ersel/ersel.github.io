@@ -1749,3 +1749,24 @@ Why nations fail
 
 300. Federalist Papers (edited) 
 
+Natural right and history Leo Strauss
+
+Democracy in America by Alexis de Tocqueville
+
+The Money Game - Adam Smith
+
+Supermoney - George Goodman
+
+The Second Crash - Charles Ellis
+
+The Second Great Crash - Frances Cairncross, Hamish McRae
+
+The Ape that Understood the Universe: How the Mind and Culture Evolve - Steve Stewart-Williams 
+
+The Machiavellians: Defenders of Freedom  - James Burnham
+
+Race to the Bottom: Uncovering the Secret Forces Destroying American Public Education
+
+The Signal and the Noise: Why So Many Predictions Fail--but Some Don't 
+
+How to Lie with Statistics
