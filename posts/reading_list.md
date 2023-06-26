@@ -1770,3 +1770,123 @@ Race to the Bottom: Uncovering the Secret Forces Destroying American Public Educ
 The Signal and the Noise: Why So Many Predictions Fail--but Some Don't 
 
 How to Lie with Statistics
+
+1. The Effective Executive: The Definitive Guide to Getting the Right Things Done
+2. Multipliers: How the Best Leaders Make Everyone Smarter
+3. Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones
+4. Radical Candor: Be a Kickass Boss Without Losing Your Humanity
+5. Drive: The Surprising Truth About What Motivates Us
+6. Deep Work: Rules for Focused Success in a Distracted World
+7. Do Hard Things: Why We Get Resilience Wrong and the Surprising Science of Real Toughness
+8. The Art of Action: How Leaders Close the Gaps between Plans, Actions and Results
+9. The Five Dysfunctions of a Team: A Leadership Fable
+10. Start with Why: How Great Leaders Inspire Everyone to Take Action
+11. Dare to Lead
+12. Lead with a Story: A Guide to Crafting Business Narratives That Captivate, Convince, and Inspire
+13. Think Again: The Power of Knowing What You Don't Know
+14. The Innovator's Dilemma: The Revolutionary Book that Will Change the Way You Do Business
+15. The Coaching Habit: Say Less, Ask More & Change the Way You Lead Forever
+16. The Magic of Thinking Big
+17. How to Win Friends and Influence People
+18. The Obstacle Is the Way: The Timeless Art of Turning Trials into Triumph
+19. Crucial Conversations: Tools for Talking When Stakes are High
+20. The 21 Irrefutable Laws of Leadership: Follow Them and People Will Follow You
+21. Debugging Teams: Better Productivity through Collaboration
+22. The Making of a Manager: What to Do When Everyone Looks to You
+23. High Output Management
+24. The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change
+25. I Came As a Shadow: An Autobiography
+26. Good Strategy Bad Strategy: The Difference and Why It Matters
+27. The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change
+28. Good to Great: Why Some Companies Make the Leap... and Others Don't
+29. The Lean Startup
+30. The Power of Habit: Why We Do What We Do in Life and Business
+31. Decisive: How to Make Better Choices in Life and Work
+32. Leaders Eat Last
+33. The Lean Product Playbook: How to Innovate with Minimum Viable Products and Rapid Customer Feedback
+34. Thinking, Fast and Slow
+35. Extreme Ownership: How U.S. Navy SEALs Lead and Win
+36. The Art of Thinking Clearly
+37. First Things First
+38. Rethinking Productivity in Software Engineering
+39. Mindset: The New Psychology of Success
+40. The Culture Code: The Secrets of Highly Successful Groups
+
+The Innovator’s Solution by Clayton M. Christensen and Michael E. Raynor
+Creativity, Inc. by Ed Catmull with Amy Wallace
+Playing to Win by A.G. Lafley and Roger L. Martin
+Innovation and Entrepreneurship by Peter F. Drucker
+Only the Paranoid Survive by Andrew S. Grove
+The Innovator’s Extinction by David E. Ulmer
+Seizing the White Space by Mark W. Johnson
+Where Good Ideas Come From by Steven Johnson
+Business Model Generation by Alexander Osterwalder and Yves Pigneur
+Borrowing Brilliance by David Kord Murray
+Made to Stick by Chip Heath and Dan Heath
+The High-Velocity Edge by Steven J. Spear
+The Other Side of Innovation by Vijay Govindarajan and Chris Trimble
+Discovery-Driven Growth by Rita Gunther McGrath and Ian C. Macmillan
+The Lean Startup by Eric Ries
+The Four Steps to the Epiphany by Steve Blank
+The First Mile by Scott D. Anthony
+Building a Growth Factory by Scott D. Anthony and David S. Duncan
+The Innovator’s DNA by Jeff Dyer, Hal Gregersen, and Clayton M. Christensen
+ The Advantage: Why Organizational Health Trumps Everything Else In Business by Patrick Lencioni
+Principles by Ray Dalio
+In The Plex: How Google Thinks, Works, and Shapes Our Lives by Steven Levy
+ The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers by Ben Horowitz
+The Four-Hour Work Week: Escape 9-5, Live Anywhere, and Join the New Rich by Timothy Ferriss
+The Innovator's Dilemma: The Revolutionary Book That Will Change The Way You Do Business by Clayton M. Christenen,
+The E-Myth Revisited by Michael E. Gerber, 1995
+The Four Steps to the Epiphany by Steve Gary Blank, 2005.
+How to Win Friends and Influence People by Dale Carnegie,
+Thinking, Fast and Slow by Daniel Kahneman, 2011
+Venture Deals: Be Smarter Than Your Lawyer and Venture Capitalist
+The Startup of You: Adapt to the Future, Invest in Yourself, and Transform Your Career
+The Power of Habit: Why We Do What We Do in Life and Business by Charles Duhigg, 2012.
+ Big Bang Disruption: Strategy in the Age of Devastating Innovation
+Hackers & Painters: Big Ideas from the Computer Age by Paul Graham, 2004
+The Wisdom of Failure: How to Learn the Tough Leadership Lessons Without Paying the Price by Laurence G. Weinzimmer and Jim McConoughey, 2012
+Ignore Everybody: and 39 Other Keys to Creativity by Hugh MacLeod, 2009
+The Goal: A Process of Ongoing Improvement by Eliyahu M. Goldratt, 1984
+Entrepreneurial DNA: The Breakthrough Discovery that Aligns Your Business to Your Unique Strengths by Joe Abraham, 2011
+Paradox by Jim Al Khaliil
+Rework by Jason Fried
+The Tipping Point by Malcolm Gladwell
+Crossing the Chasm by Geoffery A. Moore
+Launch! by Scott Duffy
+The 7 Habits of Highly Effective People by Steven Covey
+The 4-Hour Work Week by Tim Ferriss
+The 50th Law by Robert Greene and 50 Cent
+Moonwalking with Einstein: The Art & Science of Remembering Everything by Joshua Foer
+Fooled by Randomness: The Hidden Role of Chance
+The Wisdom of Crowds
+A Whole New Mind: Why Right Brainers Will Rule the Future
+Weird Ideas That Work: How to Build a Creative Company
+Drive: The Surprising Truth About What Motivates Us
+Quiet: The Power of Introverts in a World that Can’t Stop Talking
+Nudge: Improving Decisions About Health, Wealth, and Happiness
+Mindset: How You Can Fulfill Your Potential
+The Righteous Mind: Why Good People Are Divided by Politics and Religion
+Business Adventures, by John Brooks
+The Bully Pulpit, by Doris Kearns Goodwin
+On Immunity, by Eula Biss
+Making the Modern World, by Vaclav Smil
+How Asia Works by Joe Studwell
+How to Lie with Statistics by Darrell Huff
+As a Man Thinketh by James Allen
+Rich Dad, Poor Dad by Robert Kiyosaki
+Who moved my cheese by Spencer Johnson
+High output management - Andy Grove
+Economics - Aristo
+Republic - Plato
+Meditations - Marcus Aurelius
+Art of War - Sun Tzu
+Good to Great - Jim Collins
+What they teach you at HBS
+Hooked - How to build habit forming products
+Gödel, Escher, Bach: An Eternal Golden Braid - Douglas Hofstadter
+The Goal - Eliyahu Goldratt
+The Race - Eliyahu Goldratt
+Mindset: How You Can Fulfil Your Potential - Carol Dweck
+I think there I am - Lesley Levene
